@@ -1,5 +1,5 @@
-# WW-mySHP
- Various <b>3D-P</b>rinter Projects
+# WW-my3DP
+ Various <b>3D</b>-<b>P</b>rinter Projects
 
 
  ## Disclaimer
