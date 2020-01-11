@@ -1,5 +1,5 @@
 # WW-my3DP
- Various <b><u>3D</u></b>-<b><u>P</u></b>rint Projects
+ Various <b>_3D_</b>-<b>_P_</b>rint Projects
 
 
  ## Disclaimer
