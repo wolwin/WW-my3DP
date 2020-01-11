@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-der unterschiedlichen <b>_3D_</b>-<b>_P_</b>rint Projekte
+der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
 
  | **Projekt** | **Beschreibung** |
  | --- | --- |
