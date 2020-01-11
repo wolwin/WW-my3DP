@@ -4,7 +4,11 @@
 
 #### Beschreibung
 
-Projekt 'HomeMatic_Gardena_Ventil' und GARDENA EasyControl
+Projekt 'HomeMatic Gardena 9V Ventil' und GARDENA EasyControl
+
+Siehe auch Projekt 'Umbau GARDENA Bewässerungsventil (1251-20) 9V auf HomeMatic' auf der 'HomeMatic' Side - [Zeigen ...](https://homematic-forum.de/forum/viewtopic.php?f=76&t=49719)
+
+Das Gerät verhält sich wie ein Standard 'HM-LC-Sw1-Ba-PCB'.
 
 #### Bilder
 - Übersicht - Konstruktion
