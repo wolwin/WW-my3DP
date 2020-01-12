@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-OBO Toolbox - OBO T60 für 'HM-UNI-SENS-BATT' Platine  ...  (Beschreibung folgt in Kürze ...)
+OBO Toolbox - OBO T60 für 'HM-UNI-SENS-BATT' Platine  _...  (Beschreibung folgt in Kürze ...)_
 
 #### STL-Dateien
 - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' - [Download ...](./bin/OBO_T60_HM-UNI-SENS-BATT_20200103.zip)
