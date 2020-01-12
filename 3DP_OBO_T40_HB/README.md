@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-OBO Toolbox - OBO T40 für 'HB HomeBrew' Platinen
+OBO Toolbox - OBO T40 für 'HB HomeBrew' Platinen   ...  (Beschreibung folgt in Kürze ...)
 
 #### STL-Dateien
 - OBO T40 für 'HB HomeBrew' Platinen - [Download ...](./bin/OBO_T40_HB_20200112.zip)

@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-OBO Toolbox
+OBO Toolbox  ...  (Beschreibung folgt in Kürze ...)
 
 #### STL-Dateien
 - OBO T40 Grundplatte - [Download ...](./bin/OBO_T40_20200103.zip)
