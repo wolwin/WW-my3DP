@@ -7,8 +7,9 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | **Projekt** | **Beschreibung** |
  | --- | --- |
  | [OBO‑Toolbox](./3DP_OBO/README.md "Zeigen ...") | Universielle OBO-Toolbox |
- | [OBO‑Toolbox ‑ HM‑UNI‑SENS‑BATT](./3DP_OBO_T60_HM-UNI-SENS-BATT/README.md "Zeigen ...") | Universielle OBO-Toolbox - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' |
- | [GARDENA-EasyControl](./3DP_GARDENA_EasyControl/README.md "Zeigen ...") | Projekt 'HomeMatic Gardena 9V Ventil' und GARDENA EasyControl |
+ | [OBO‑Toolbox ‑ HB](./3DP_OBO_T40_HB/README.md "Zeigen ...") | Universielle OBO-Toolbox - OBO T40 für 'HB HomeBrew' Geräte |
+ | [OBO‑Toolbox ‑ HM‑UNI‑SENS‑BATT](./3DP_OBO_T60_HM-UNI-SENS-BATT/README.md "Zeigen ...") | Universielle OBO-Toolbox - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' Platine |
+ | [GARDENA-EasyControl](./3DP_GARDENA_EasyControl/README.md "Zeigen ...") | Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' |
 
  ## Disclaimer
 [Lese DISCLAIMER ...](DISCLAIMER.md)
