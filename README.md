@@ -11,7 +11,11 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [OBO‑Toolbox ‑ HM‑UNI‑SENS‑BATT](./3DP_OBO_T60_HM-UNI-SENS-BATT/README.md "Zeigen ...") | Universielle OBO-Toolbox - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' Platine |
  | [GARDENA-EasyControl](./3DP_GARDENA_EasyControl/README.md "Zeigen ...") | Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' |
 
- ## Disclaimer
+## Andere Übersichten
+- 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
+- 'WW-myPCB' - Printed-Circuit-Board Projekte - [Zeigen ...](https://github.com/wolwin/WW-myPCB/blob/master/README.md)
+
+## Disclaimer
 [Lese DISCLAIMER ...](DISCLAIMER.md)
 
 ## Lizenz
