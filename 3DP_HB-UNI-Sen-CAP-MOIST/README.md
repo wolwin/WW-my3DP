@@ -9,10 +9,10 @@ Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-UNI-Sen-CAP-MOIST/README.md)
 
 #### STL-Dateien
-[Download ...](./bin/3DP_STL_HB-UNI-Sen-CAP-MOIST_20200204.zip)
+- [Download ...](./bin/3DP_STL_HB-UNI-Sen-CAP-MOIST_20200204.zip)
 
 #### Thingiverse
-[Thing 4147410 ...](https://www.thingiverse.com/thing:4147410)
+- [Thing 4147410 ...](https://www.thingiverse.com/thing:4147410)
 
 #### Bilder
 - Übersicht - Konstruktionen
