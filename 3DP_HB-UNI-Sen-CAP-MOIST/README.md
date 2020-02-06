@@ -43,7 +43,7 @@ Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor
 <br><br>
 - Natürlich sollten alle 3D-Druckteile mit einem UV-beständigen Acryl-Lack überzogen werden. Man kann natürlich Sprühlack einsetzen - aber: im Innenbereich nicht einsetzbar !! Gute Erfahrungen habe ich mit lösungsmittelfreien Streichlack gemacht - läßt sich mit einem kleinen Pinsel super verarbeiten ... und riecht (fast) nicht:
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_10.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_10.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T") RAL 7016 - Anthrazitgrau
 <br><br>
 - Übersicht - Zusammenbau
    - zuerst sollte der Feuchtigkeitssensor mit UV-beständigem Silikon in den Sensorhalter eingesetzt und abgedichtet werden (24 h durchtroknen lassen)
