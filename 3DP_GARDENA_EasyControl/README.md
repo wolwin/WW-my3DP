@@ -11,6 +11,9 @@ Projekt 'Umbau GARDENA Bewässerungsventil (1251-20) 9V auf HomeMatic' auf der '
 #### STL-Dateien
 - [Download ...](./bin/3DP_STL_Gardena_EasyControl_20200204.zip)
 
+#### Thingiverse
+[Thing 4148094 ...](https://www.thingiverse.com/thing:4148094)
+
 #### Bilder
 - Übersicht - Konstruktion
 <br><br>
