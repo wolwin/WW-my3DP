@@ -4,9 +4,9 @@
 
 #### Beschreibung
 
-Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' (das Gerät verhält sich wie ein Standard 'HM-LC-Sw1-Ba-PCB')
+Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' (das Gerät verhält sich wie ein Standard 'HM-LC-SW1-BA-PCB')
 
-Projekt 'Umbau GARDENA Bewässerungsventil (1251-20) 9V auf HomeMatic' auf der 'HomeMatic' Side - [Zeigen ...](https://homematic-forum.de/forum/viewtopic.php?f=76&t=49719)
+Projekt 'Umbau GARDENA Bewässerungsventil (1251-20) 9V auf HomeMatic' - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-LC-SW1-BA-PCB-GAR1251/README.md)
 
 #### STL-Dateien
 - [Download ...](./bin/3DP_STL_Gardena_EasyControl_20200204.zip)
