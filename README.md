@@ -11,6 +11,8 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [OBO‑Toolbox&nbsp;‑&nbsp;HM‑UNI‑SENS‑BATT](./3DP_OBO_T60_HM-UNI-SENS-BATT/README.md "Zeigen ...") | Universielle OBO-Toolbox - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' Platine |
  | [GARDENA-EasyControl](./3DP_GARDENA_EasyControl/README.md "Zeigen ...") | Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' |
  | [HB‑UNI‑Sen‑CAP‑MOIST](./3DP_HB-UNI-Sen-CAP-MOIST/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor mit optionalem Temperatursensor DS18B20 für die Integration in HomeMatic' |
+ | [YAWS - Version 3 - Toolbox](./3DP_YAWS/README.md "Zeigen ...") | Yet Another Weather Shield - Version 3 - Toolbox |
+ | [STALL‑Weatherman](./3DP_Weatherman/README.md "Zeigen ...") | Gehäuse-Erweiterungen der Wetterstation für die Hausautomation von Dr. Stall |
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)

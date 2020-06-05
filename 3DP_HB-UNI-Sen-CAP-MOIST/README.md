@@ -17,33 +17,33 @@ Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor
 #### Bilder
 - Übersicht - Konstruktionen
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_01_50.jpg "Gehäuse HB-UNI-Sen-CAP-MOIST")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_02_50.jpg "Gehäuse mit Platine HB-UNI-Sens-X")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_03_50.jpg "Gehäuse mit Platine HB-UNI-Mini-X")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_04_50.jpg "Gehäuse mit Platine HM-UNI-Mini")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_05_50.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_01_50.jpg "Gehäuse HB-UNI-Sen-CAP-MOIST")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_02_50.jpg "Gehäuse mit Platine HB-UNI-Sens-X")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_03_50.jpg "Gehäuse mit Platine HB-UNI-Mini-X")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_04_50.jpg "Gehäuse mit Platine HM-UNI-Mini")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_05_50.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 <br><br>
 - Übersicht - schematischer Zusammenbau
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_01.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_01.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 <br><br>
 - Übersicht - Halter für 2-fach bzw. 3-fach AA-Batterien und unterschiedliche HomeBrew Platinen: 'HB-UNI-Sens-X', 'HB-UNI-Mini-X', 'HM-UNI-Mini' und 'HB-UNI-Sen-CAP-MOIST-T' (ungetestet) - zur Befestigung werden 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 6,5 mm' benutzt
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_02.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_02.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 <br><br>
 - Übersicht - fertig aufgebaute und getestete Moduleinheiten - die Anmeldung an der CCU Zentrale sollte erfolgreich durchgeführt sein
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_03.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_04.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_03.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_04.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 <br><br>
 - Übersicht - Einfügen der Moduleinheit in den Deckel - Stege der Moduleinheit in die Führungsstege des Deckels einführen
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_05.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_06.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_05.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_06.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 <br><br>
 - Natürlich sollten alle 3D-Druckteile mit einem UV-beständigen Acryl-Lack überzogen werden. Man kann natürlich Sprühlack einsetzen - aber: im Innenbereich nicht einsetzbar !! Gute Erfahrungen habe ich mit lösungsmittelfreien Streichlack gemacht - läßt sich mit einem kleinen Pinsel super verarbeiten ... und riecht (fast) nicht:
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_10.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T") RAL 7016 - Anthrazitgrau
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_10.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T") RAL 7016 - Anthrazitgrau
 <br><br>
 - Übersicht - Zusammenbau
    - zuerst sollte der Feuchtigkeitssensor mit UV-beständigem Silikon in den Sensorhalter eingesetzt und abgedichtet werden (24 h durchtroknen lassen)
@@ -53,9 +53,9 @@ Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor
    - das ganze wird mit vier 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' verschraubt
    - wahlweise kann zum Schutz des Feuchtigkeitssensors noch ein 4 oder 6 mm Erdspieß aufgesteckt werden
 <br><br>
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_07.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_08.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
-![WW-myPCB - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_09.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_07.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_08.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
+![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_09.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 
 
 
