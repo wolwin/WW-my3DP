@@ -8,9 +8,11 @@ xxx
 #### STL-Dateien
 xxx
 
+#### Thingiverse
+xxx
+
 #### Bilder
 xxx
 
 #### Historie
-- 2020-06-05 - Erstveröffentlichung
-  - Version 1.0 - 06-2020
+- 2020-xx-xx - Erstveröffentlichung

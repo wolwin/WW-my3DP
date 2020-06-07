@@ -3,23 +3,22 @@
 [Zurück zur Übersicht ...](../README.md)
 
 #### Beschreibung
-xxx
+Toolbox für eine universielle Wetterkappe mit vielfältigen Kobinationsmöglichkeiten.
+<br><br>
+[Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_YAWS/README.md)
 
 #### STL-Dateien
+xxx
+
+#### Thingiverse
+xxx
 
 #### Bilder
-- Übersicht - YAWS
+- Übersicht - YAWS-Toolbox
 <br><br>
-![WW-my3DP - YAWS](./img/YAWS_Overview_01.jpg "YAWS - Überblick")
+![WW-my3DP - YAWS](./img/3DP_YAWS_Overview_01.jpg "YAWS - Überblick")
 <br><br>
-- YAWS - Standard-Konfiguration mit 40 mm Lüfteroption
-<br><br>
-![WW-my3DP - YAWS](./img/YAWS_Overview_02.jpg "YAWS - Überblick")
-<br><br>
-- YAWS - 'STALL-Weatherman'- Konfiguration mit Fußhalter
-<br><br>
-![WW-my3DP - YAWS](./img/YAWS_Overview_03.jpg "YAWS - Überblick")
 
 #### Historie
-- 2020-06-05 - Erstveröffentlichung
+- 2020-06-07 - Erstveröffentlichung
   - Version 1.0 - 06-2020
