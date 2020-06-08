@@ -14,11 +14,13 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 <b>Stage 3</b> - 'STALL-Weatherman' im OBO-Gehäuse und Wetterkappe aus der 'YAWS-Toolbox' mit der 'STALL-Weatherman' Option
 
 #### STL-Dateien
-xxx
-
-- Stage 1 - [Download ...](./bin/3DP_STL_WM_xxx.zip)
-- Stage 2 - [Download ...](./bin/3DP_STL_WM_xxx.zip)
-- Stage 3 - [Download ...](./bin/3DP_STL_WM_xxx.zip)
+- Stage 1
+  - AddOn Gehäuse für RND - [Download ...](./bin/3DP_STL_WM_RND-Case_20200604.zip)
+- Stage 2
+  - externes Gehäuse für Lichtsensor - [Download ...](./bin/3DP_STL_WM_SensCase_20200604.zip)
+  - externes Gehäuse für Regensensor - [Download ...](./bin/3DP_STL_WM_RainCase_20200604.zip)
+- Stage 3
+  - [siehe 'YAWS-Tooolbox' - 'STALL-Weatherman' Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_Weatherman/README.md#STL-Dateien)
 
 #### Thingiverse
 xxx
@@ -27,4 +29,4 @@ xxx
 xxx
 
 #### Historie
-- 2020-xx-xx - Erstveröffentlichung
+- 2020-06-08 - Erstveröffentlichung
