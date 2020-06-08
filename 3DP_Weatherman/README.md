@@ -20,7 +20,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
   - externes Gehäuse für Lichtsensor - [Download ...](./bin/3DP_STL_WM_SensCase_20200604.zip)
   - externes Gehäuse für Regensensor - [Download ...](./bin/3DP_STL_WM_RainCase_20200604.zip)
 - Stage 3
-  - [siehe 'YAWS-Tooolbox' - 'STALL-Weatherman' Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_Weatherman/README.md#STL-Dateien)
+  - [siehe 'YAWS-Tooolbox' - 'STALL-Weatherman' Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_YAWS/README.md#STL-Dateien)
 
 #### Thingiverse
 xxx
