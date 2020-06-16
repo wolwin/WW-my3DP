@@ -14,6 +14,8 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 <b>Stage 3</b> - 'STALL-Weatherman' im OBO-Gehäuse und Wetterkappe aus der 'YAWS-Toolbox' mit der 'STALL-Weatherman' Option
 
 #### STL-Dateien
+- Stage 0
+  - Grundplatten zur mechanischen Befestigung des 'STALL-Weatherman' in den RND-Gehäusen 'RND 455-00223' und 'RND 455-00144' bzw. den OBO-Gehäusen 'OBO-T40' und 'OBO-T60' - [Download ...](./bin/3DP_STL_WM_Baseplate_20200616.zip)
 - Stage 1
   - AddOn Gehäuse für RND - [Download ...](./bin/3DP_STL_WM_RND-Case_20200604.zip)
 - Stage 2
@@ -32,4 +34,5 @@ xxx
 xxx
 
 #### Historie
+- 2020-06-16 - Stage 0 - STL-Dateien Grundplatten
 - 2020-06-08 - Erstveröffentlichung
