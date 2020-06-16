@@ -7,6 +7,8 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Weatherman/README.md)
 
+<b>Stage 0</b> - Grundplatten zur mechanischen Befestigung des 'STALL-Weatherman' in den RND-Gehäusen 'RND 455-00223' und 'RND 455-00144' bzw. den OBO-Gehäusen 'OBO-T40' und 'OBO-T60'
+
 <b>Stage 1</b> - 'STALL-Weatherman' im RND-Gehäuse (RND 455-00223 oder RND 455-00144) mit abgesetztem AddOn Gehäuse für Lichtsensor BH1750 / NTC und Regensensor
 
 <b>Stage 2</b> - 'STALL-Weatherman' im OBO-Gehäuse mit separaten Gehäusen für Lichtsensor BH1750 / NTC und Regensensor
@@ -15,7 +17,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 
 #### STL-Dateien
 - Stage 0
-  - Grundplatten zur mechanischen Befestigung des 'STALL-Weatherman' in den RND-Gehäusen 'RND 455-00223' und 'RND 455-00144' bzw. den OBO-Gehäusen 'OBO-T40' und 'OBO-T60' - [Download ...](./bin/3DP_STL_WM_Baseplate_20200616.zip)
+  - Grundplatten für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_Baseplate_20200616.zip)
 - Stage 1
   - AddOn Gehäuse für RND - [Download ...](./bin/3DP_STL_WM_RND-Case_20200604.zip)
 - Stage 2
