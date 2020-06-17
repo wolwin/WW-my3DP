@@ -22,7 +22,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
   - AddOn Gehäuse für RND - [Download ...](./bin/3DP_STL_WM_RND-Case_20200604.zip)
 - <b>Stage 2</b>
   - externes Gehäuse für Lichtsensor - [Download ...](./bin/3DP_STL_WM_SensCase_20200604.zip)
-  - externes Gehäuse für Regensensor - [Download ...](./bin/3DP_STL_WM_RainCase_20200604.zip)
+  - externes Gehäuse für Regensensor - [Download ...](./bin/3DP_STL_WM_RainCase_20200617.zip)
 - <b>Stage 3</b>
   - siehe 'YAWS-Tooolbox' - ['STALL-Weatherman'-Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_YAWS/README.md#stl-dateien)
 
@@ -65,5 +65,6 @@ xxx
   <br><br>
 
 #### Historie
+- 2020-06-17 - Fix STL-Dateien RainCase
 - 2020-06-16 - Stage 0 - Grundplatten und STL-Dateien
 - 2020-06-08 - Erstveröffentlichung
