@@ -12,7 +12,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
 <br><br>
 
 #### STL-Dateien
-- 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_20200608.zip)
+- 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_20200623.zip)
 - 'STALL-Weatherman'-Option für 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_WM_20200617.zip)
 - siehe 'OBO-Tooolbox' - ['Schraubverbinder M10 M12 M16' und 'PTFE Ventilationsschraube M10'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO/README.md#stl-dateien)
 
@@ -26,5 +26,6 @@ xxx
 xxx
 
 #### Historie
+- 2020-06-23 - Erweiterung STL-Dateien 'YAWS-Toolbox' - Halterung
 - 2020-06-17 - Fix STL-Dateien 'STALL-Weatherman'-Option - RainCase
 - 2020-06-08 - Erstveröffentlichung
