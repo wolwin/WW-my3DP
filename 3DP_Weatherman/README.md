@@ -16,23 +16,37 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 <b>Stage 3</b> - 'STALL-Weatherman' im OBO-Gehäuse und Wetterkappe aus der 'YAWS-Toolbox' mit der 'STALL-Weatherman' Option
 
 #### STL-Dateien
-- <b>Stage 0</b>
+- _Stage 0_
   - Grundplatten für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_Baseplate_20200616.zip)
-- <b>Stage 1</b>
+- _Stage 1_
   - AddOn Gehäuse für RND - [Download ...](./bin/3DP_STL_WM_RND-Case_20200604.zip)
-- <b>Stage 2</b>
+- _Stage 2_
   - externes Gehäuse für Lichtsensor - [Download ...](./bin/3DP_STL_WM_SensCase_20200604.zip)
   - externes Gehäuse für Regensensor - [Download ...](./bin/3DP_STL_WM_RainCase_20200617.zip)
-- <b>Stage 3</b>
+- _Stage 3_
   - siehe 'YAWS-Tooolbox' - ['STALL-Weatherman'-Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_YAWS/README.md#stl-dateien)
+
+### 3D-Druckparameter
+... _folgt in Kürze_
 
 #### Thingiverse
 xxx
 
-#### Konfiguration, Aufbau und Inbetriebnahme
-... _folgt in Kürze_
+#### Material
+- Benutzte Materialien:<br>
+  - 3D Druckmaterial: ANYCUBIC PLA+, weiß
+  - HORNBACH Buntlack PU Acryllack glänzend glacierweiß 125 ml - EAN 4306517157760
+  - LUGATO Wetterschutz-Slicon (transparent) WIE GUMMI 310 ml - EAN 4009071098233
+  - Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm
+  - Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm
+  - Präzisionsbuchsenleiste - Rastermaß 2,54 mm
+  - Wiska EVSP 12 Druckausgleichselement M12 Polyamid Lichtgrau - EAN 2050001453440
+  - B+B Sensors - Druckausgleich-Membran Ø6,7/5,3 VPE - Art. Nr.: SHOP DAM-AD7
+  - Glas: Fa. ibero - 'Kapern, Siebung Capucines' 35 g, EAN: 4013200552206 - z.B. erhältlich bei 'Edek*'
+  - Dichtring 1 1/2": GEKA plus-Flachdichtungssatz je 3 Stck 40110D-40116D (1/2"-1 1/2"), Artikelnumer: 10.5000.9, EAN: 4015933010640 (d_a = 41,5 mm, d_i = 30,0 mm, dr = 6,0 mm, h = 2,0 mm)   
+  - Kunststoff Kabelverschraubung M12 IP68
 
-#### Bilder
+#### Konfiguration und Aufbau
 - <b>Stage 0</b> -  Grundplatten für 'STALL-Weatherman'
   <br><br>
   -  Grundplatten für Gehäuse 'RND 455-00223' und 'RND 455-00144' - 4 Edelstahl Senkkopfschrauben M4 x 20 sind im Weatherman Bausatz enthalten
@@ -63,8 +77,81 @@ xxx
   <br><br>
   ![WW-my3DP - WM](./img/3DP_WM_Stage0_22.jpg "Stage 0 - Gehäuse 'OBO T40'")
   <br><br>
+- <b>Stage 1</b> -  Gehäuse für RND
+  <br><br>
+  - Gemeinsames Gehäuse für Lichtsensor, NTC, Licht- und Regensensor
+    - Der Aufbau entspricht im Detail den Einzelgehäusen - siehe Stage 2.
+  <br><br>
+- <b>Stage 2</b> -  Gehäuse für Licht- und Regensensor
+  <br><br>
+  - Gehäuse für Lichtsensor und NTC
+  <br><br>
+  ![WW-my3DP - WM](./img/3DP_WM_Stage2_10.jpg "Stage 2 - Gehäuse Lichtsensor")
+  <br><br>
+    - Glas: Fa. ibero - 'Kapern, Siebung Capucines' 35 g, EAN: 4013200552206 - z.B. erhältlich bei 'Edek*'
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_01.jpg "Stage 2 - 'Kapernglas'")
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_02.jpg "Stage 2 - 'Kapernglas'")
+    <br><br>
+    - Dichtring 1 1/2": GEKA plus-Flachdichtungssatz je 3 Stck 40110D-40116D (1/2"-1 1/2"), Artikelnumer: 10.5000.9, EAN: 4015933010640 (d_a = 41,5 mm, d_i = 30,0 mm, dr = 6,0 mm, h = 2,0 mm)
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_03.jpg "Stage 2 - Dichtring GEKA 1 1/2''")
+    <br><br>
+    - Sensorhalter ohne Dichtring (weiß - wird mit Silikon eingesetzt) oder Sensorhalter mit Dichtring (grau)
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_11.jpg "Stage 2 - Sensorhalter")
+    <br><br>
+    - Sensorhalter mit 4-fach Präzisionsbuchsenleiste, Sensor BH1750, NTC 10k, Abdeckkappe
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_12.jpg "Stage 2 - Sensorhalter - Teile")
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_13.jpg "Stage 2 - Sensorhalter - Zusammenbau")
+    <br><br>
+    - Anpassen des Anschlusses von Glas und Gehäuse durch vorsichtiges Anschleifen der oberen Gehäusekante mit einer Halbrundfeile - das Eindrehen des Glases in das Gehäuse muß schwergängig bleiben (beim endgültigen Einbau wird das Glas dick mit UV-beständigem Silikon eingesetzt, wodurch es dann leichtgängig wird) - das Glas muß sich so weit eindrehen lassen (1/8 Drehung), dass die Haltenasen bis zu den Endpositionen gehen - siehe Pfeil)
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_14.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_15.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
+    <br><br>
+    - Einsetzen des Dichtrings für den 'Sensorhalter mit Dichtring' - für den 'Sensorhalter ohne Dichtring' erfolgt die Montage mit Silikon
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_16.jpg "Stage 2 - Gehäuse Lichtsensor - Dichtring")
+    <br><br>
+    - Fixieren des Sensorhalters mit 8 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm' - der Gehäusedeckel wird mit 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' verschraubt. Alle Dichtflächen und auch die Lüftungsschraube werden zusätzlich beim Einbau dünn mit Silikon versehen.
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_17.jpg "Stage 2 - Gehäuse Lichtsensor mit Lüftungsschraube")
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_18.jpg "Stage 2 - Gehäuse Lichtsensor mit Lüftungsschraube")
+  <br><br>
+  - Gehäuse für Regensensor (hier: noch ohne Lüftungsschraube)
+  <br><br>
+  ![WW-my3DP - WM](./img/3DP_WM_Stage2_20.jpg "Stage 2 - Gehäuse Regensensor")
+  <br><br>
+    - Anpassen von Platine und Gehäuse - die Platine muß bündig an allen vier Ecken auf dem Gehäuserand aufliegen - siehe Pfeile. Dazu ist es evtl. notwendig am Gehäuse die Ecken zu bereinigen ('eckig zu machen') und / oder die Platine mit einer Feile zu entgraten.
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_21.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
+    <br><br>
+    - Fixieren des Platinenhalters mit 8 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm (beim endgültigen Einbau wird Platine und Halter mit UV-beständigem Silikon eingesetzt)
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Stage2_22.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
+    <br><br>
+    - Der Gehäusedeckel wird mit 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' verschraubt. Alle Dichtflächen und auch die Lüftungsschraube im Deckel werden zusätzlich beim Einbau dünn mit Silikon versehen.
+    <br><br>
+- <b>Stage 3</b> -  OBO-Gehäuse und Wetterkappe aus der 'YAWS-Toolbox' mit der 'STALL-Weatherman' Option
+    <br><br>
+    - Befestigungen für Gehäuse 'OBO-T60' und YAWS-Halterung 'YAWS_V3_Holder-WM_60' für die YAWS-Wetterkappe
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Option_60.jpg "Stage 3 - Gehäuse Lichtsensor")
+    <br><br>
+    - Weatherman-Platine im 'OBO-T60' Gehäuse (siehe auch oben) - drei seitliche Kunststoff Kabelverschraubung (links und rechts) für die Zuleitung der Sensorkabel
+    - Stromversorgung über Kunststoff Kabelverschraubung (oben links)
+    - Wiska EVSP 12 Druckausgleichselement (mittig oben)
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Option_61.jpg "Stage 3 - Gehäuse Lichtsensor")
+    <br><br>
+    - Weatherman - Stage 3 - Version 06-2020
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Option_65.jpg "Stage 3 - Gehäuse Lichtsensor")
 
 #### Historie
+- 2020-06-30 - Dokumentation
 - 2020-06-17 - Fix STL-Dateien RainCase
 - 2020-06-16 - Stage 0 - Grundplatten und STL-Dateien
 - 2020-06-08 - Erstveröffentlichung
