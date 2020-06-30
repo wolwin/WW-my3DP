@@ -271,7 +271,7 @@ xxx
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_35.jpg "YAWS-Toolbox")
   <br><br>
   - Anschluß und Verbindung des Regensensors (4 Leitungen), des Helligkeitssensors BH1750 (4 Leitungen) und des NTC (2 Leitungen) an das 8-polige Zuleitungskabel
-
+<br><br>
   | **Kabel-Zuleitung Farbe** | **Kabel-Zuleitung Beschreibung** | **Ziel-Komponente** |
   | --- | --- | --- |
   |  GRÜN | Platine +3 V | BH1750 - I2C - 3,3 V - rot |
@@ -282,7 +282,7 @@ xxx
   |  GELB | 1 nF - Platine IO13 | Regenmelder - gelb |
   |  ROT | Platine +5 V | Heizung - +5 V - rot |
   |  BLAU | Platine IO00 | Heizung - GND - blau |
-
+<br><br>
   - Vor dem Verschließen des Deckels sollte das Anschlußkabel an den Weatherman angeschlossen und alle Komponenten einzeln / gemeinsam getestet werden !!
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_36.jpg "YAWS-Toolbox")
