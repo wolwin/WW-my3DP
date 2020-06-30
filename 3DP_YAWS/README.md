@@ -270,7 +270,7 @@ xxx
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_35.jpg "YAWS-Toolbox")
   <br><br>
-  - Anschluß und Verbindung des Regensensors (4 Leitungen), des Helligkeitssensors BH1750 (4 Leitungen) und des NTC (2 Leitungen) an das 8-polige Zuleitungskabel
+  - Anschluß und Verbindung des Regensensors (4 Leitungen), des Helligkeitssensors BH1750 (4 Leitungen) und des NTC (2 Leitungen) an das 8-polige Zuleitungskabel<br>
 
   | **Kabel-Zuleitung Farbe** | **Kabel-Zuleitung Beschreibung** | **Ziel-Komponente** |
   | --- | --- | --- |
