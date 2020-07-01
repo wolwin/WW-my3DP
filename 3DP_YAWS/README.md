@@ -56,6 +56,7 @@ xxx
   - 90° Halterung mit M16 Hohlschraube und M4 x 20 mm Befestigung an einem Metallwinkel mit Rohrschelle zur Mastbefestigung
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_40.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_41.jpg "YAWS-Toolbox")
   <br><br>
   - 90° Halterungen mit M12 und M16 Hohlschrauben
@@ -79,8 +80,11 @@ xxx
   - Sensorkammer mit Fixierringen für das Insektengitter und obere Halteplatte für die Lüftungskappen - Sensorkammer und die untere und obere Halteplatte werden mit 8 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' miteinander verschraubt
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_46.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_47.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_48.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_50.jpg "YAWS-Toolbox")
   <br><br>
 - Beispiel YAWS Konfiguration - Ebene 3 - Lüftungskappe 1
@@ -104,8 +108,11 @@ xxx
   - 'STALL-Weatherman'- Option für seperate Licht- und Regensensor-Gehäuse mit PTFE-Lüftungsschrauben (grau)
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_60.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_61.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_62.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_63.jpg "YAWS-Toolbox")
 
 #### Aufbau und Inbetriebnahme
@@ -137,6 +144,7 @@ xxx
   - Sensorkammer unten - überstehendes Insektengitter am oberen Rand des Spannrings abschneiden
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_14.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_15.jpg "YAWS-Toolbox")
   <br><br>
   - Sensorkammer unten - der Spannring sollte nur bei Nutzung eines Lüfters ganz bis an den Anschlag gedrückt werden - ohne Lüfter-Option sollte der Spannring bündig mit dem Sensorgehäuse abschließen
@@ -164,11 +172,13 @@ xxx
   - Auswahl des Sensorhalters nach Kabelstärke und Anzahl der Sensoranschlüsse - hier für Sensor BME280: Sensorhalter mit 4-fach Präzisionsbuchsenleiste und Kabelfixierung durch Kabelbinder
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_30.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_31.jpg "YAWS-Toolbox")
   <br><br>
   - hier: Sensorplatine BME280 mit PTFE-Gewindedichtband (Teflon) 1-lagig vorne und hinten umfassen, 2-te Lage unterhalb des Sensors um 90° gedreht umwickeln / fixieren. Abdichten der Steckverbindung mit Silikon.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_32.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_33.jpg "YAWS-Toolbox")
   <br><br>
 - YAWS - Aufbau der Lüftungskappen (Ebene 3 und 4)
@@ -180,22 +190,27 @@ xxx
   - Die Alufolie mit Hilfe eines Dessert-Tellers markieren und den Umring ausschneiden.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_61.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_62.jpg "YAWS-Toolbox")
   <br><br>
   - Die Alufolie mit Hilfe einer Lüftungskappe ebenfals markieren und dann die Folie 8-fach bis zur Markierung einschneiden.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_63.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_64.jpg "YAWS-Toolbox")
   <br><br>
   - Die Alufolie überlappend einschlagen und die Überlappungen mit der Alu-Klebefolie (großzügig) abdecken.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_65.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_66.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_67.jpg "YAWS-Toolbox")
   <br><br>
   - Bei der 'STALL-Weatherman'-Option genauso vorgehen.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_68.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_69.jpg "YAWS-Toolbox")
   <br><br>
   - Fertige 'STALL-Weatherman'-Option und Standard Lüftungskappe (Ebene 1)
@@ -210,6 +225,7 @@ xxx
   - Abschließend kann dann der vormontierte Sensorhalter in die Sensorkammer eingeschoben und mit einer 'Blechschraube DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' fixiert werden.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_19.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_20.jpg "YAWS-Toolbox")
   <br><br>
 - YAWS - Aufbau der 'STALL-Weatherman'-Option (Ebene 4)
@@ -250,6 +266,7 @@ xxx
   - Zuletzt wird der Deckel dünn mit Silikon eingesetzt und mit 7 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' verschraubt Danach sollte man vor einer Weiterbearbeitung dem Silikon mindestens 24 Stunden zum Abbinden geben!!
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_14.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_15.jpg "YAWS-Toolbox")
   <br><br>
   - Nach dem Abbinden der Silikonabdichtungen, können alle Komponenten (Sensorträger Typ 2, Sensorkappe) und Sensoren (BH1750, NTC 10K - schwarz lackiert) zusammengebaut werden.
@@ -264,6 +281,7 @@ xxx
   - Die Abdeckkappe (YAWS_V3_Cap-2_WM-SensHolder-Cap) wird mit 3 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm' aufgesetzt.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_33.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_34.jpg "YAWS-Toolbox")
   <br><br>
   - Der Sensorträger wird eingesetzt und mit 8 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm' fixiert.
@@ -290,6 +308,7 @@ xxx
   - Die Abdeckung und die Leitungsdurchführungen werden mit Silikon eingesetzt und mit 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm' festgeschraubt. Die Kabeldurchführung zum Regensensorgehäuse wird umfassend mit Silikon abgedichtet. Abschließend werden die beiden PTFE-Lüftungsschrauben leicht mit Silikon versehen und in den Regensensor und die Kappe eingeschraubt.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_37.jpg "YAWS-Toolbox")
+  <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_38.jpg "YAWS-Toolbox")
   <br><br>
   - Mit der Montage der Lüftungskappe 1 (Ebene 2) wird die Montageeinheit komplettiert. Der weitere Zusammenbau mit der Sensorkammer und den Halterungen erfolgt, wie beschrieben.

@@ -104,11 +104,13 @@ xxx
     - Sensorhalter mit 4-fach Präzisionsbuchsenleiste, Sensor BH1750, NTC 10k, Abdeckkappe
     <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_12.jpg "Stage 2 - Sensorhalter - Teile")
+    <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_13.jpg "Stage 2 - Sensorhalter - Zusammenbau")
     <br><br>
     - Anpassen des Anschlusses von Glas und Gehäuse durch vorsichtiges Anschleifen der oberen Gehäusekante mit einer Halbrundfeile - das Eindrehen des Glases in das Gehäuse muß schwergängig bleiben (beim endgültigen Einbau wird das Glas dick mit UV-beständigem Silikon eingesetzt, wodurch es dann leichtgängig wird) - das Glas muß sich so weit eindrehen lassen (1/8 Drehung), dass die Haltenasen bis zu den Endpositionen gehen - siehe Pfeil)
     <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_14.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
+    <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_15.jpg "Stage 2 - Gehäuse Lichtsensor - Anpassung Glas")
     <br><br>
     - Einsetzen des Dichtrings für den 'Sensorhalter mit Dichtring' - für den 'Sensorhalter ohne Dichtring' erfolgt die Montage mit Silikon
@@ -118,6 +120,7 @@ xxx
     - Fixieren des Sensorhalters mit 8 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm' - der Gehäusedeckel wird mit 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,9 x 9,5 mm' verschraubt. Alle Dichtflächen und auch die Lüftungsschraube werden zusätzlich beim Einbau dünn mit Silikon versehen.
     <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_17.jpg "Stage 2 - Gehäuse Lichtsensor mit Lüftungsschraube")
+    <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Stage2_18.jpg "Stage 2 - Gehäuse Lichtsensor mit Lüftungsschraube")
   <br><br>
   - Gehäuse für Regensensor (hier: noch ohne Lüftungsschraube)
