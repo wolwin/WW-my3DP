@@ -117,12 +117,10 @@ xxx
 
 #### Aufbau und Inbetriebnahme
 - YAWS - Aufbau allgemein
-  <br><br>
   -  Alle 3D-Druckteile wurden mit hochwertigem (weißem) PLA-Material gedruckt. Um eine gewisse UV- und Wasserbeständigkeit zu erreichen, wurden alle Teile VOR dem Zusammenbau mit UV-beständigem PU-Acryllack auf Wasserbasis gestrichen (siehe Materialliste).
   - Die Verwendung des UV-beständigem LUGATO Silikon erfordert Geduld: handfest wird das Silikon erst nach 24 Stunden - wirklich fest ist das Silikon nach ca. 7 Tagen Trocknung (siehe Aufdruck auf der Kartusche) - dann aber hält es ... und dichtet bei Kälte und Hitze!!
   <br><br>
 - YAWS - Aufbau der Sensorkammer mit Insektenschutz (Ebene 2)
-  <br><br>
   - Zentraler Kern des YAWS ist die Sensorkammer - sie besteht aus einer konisch nach oben zulaufenden Kammer, die von zwei Lüftungsbereichen umgeben ist - mit dem sich ergebenden Kamineffekt, soll eine Temperaturentkopplung zwischen Gehäuse und der zu messenden Umgebungstemperatur in der Sensorkammer erreicht werden.
   - Insektengitter am unteren und oberen Ende der Sensorkammer verhindert das Eindringen von Kleintieren.
   - Halterungen an der Sensorkammer unten und oben fixieren den Insektenschutz und stellen die Verbindung zum Sensorhalter und den Abdeckkappen her.
@@ -168,7 +166,6 @@ xxx
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_18.jpg "YAWS-Toolbox")
   <br><br>
 - YAWS - Aufbau des Sensorhalters (Ebene 2)
-  <br><br>
   - Auswahl des Sensorhalters nach Kabelstärke und Anzahl der Sensoranschlüsse - hier für Sensor BME280: Sensorhalter mit 4-fach Präzisionsbuchsenleiste und Kabelfixierung durch Kabelbinder
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_30.jpg "YAWS-Toolbox")
@@ -182,7 +179,6 @@ xxx
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_33.jpg "YAWS-Toolbox")
   <br><br>
 - YAWS - Aufbau der Lüftungskappen (Ebene 3 und 4)
-  <br><br>
   - Die beiden Lüftungskappen sollten, wenn sie im Sonnenlicht stehen, mit Alufolie beklebt werden (trotzdem vorher die Kappen lackieren !!), damit möglichst viel Sonnenlicht reflektiert wird. Damit wird die Temperaturaufnahme des Gehäuses verringert. Dies kann einfach mit Haushalts-Alufolie und / oder Alu-Klebefolie erreicht werden.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_60.jpg "YAWS-Toolbox")
@@ -229,7 +225,6 @@ xxx
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Standard_20.jpg "YAWS-Toolbox")
   <br><br>
 - YAWS - Aufbau der 'STALL-Weatherman'-Option (Ebene 4)
-  <br><br>
   - Anpassen des Anschlusses von Glas und Gehäuse durch vorsichtiges Anschleifen der oberen Gehäusekante mit einer Halbrundfeile - das Eindrehen des Glases in das Gehäuse muß schwergängig bleiben.
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_01.jpg "YAWS-Toolbox")
