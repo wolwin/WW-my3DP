@@ -17,7 +17,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
 - siehe 'OBO-Tooolbox' - ['Schraubverbinder M10 M12 M16' und 'PTFE Ventilationsschraube M10'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO/README.md#stl-dateien)
 
 ### 3D-Druckparameter
-... _folgt in Kürze_
+- CURA 3D-Druckparameter für 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_PrintParameter_20200630.zip)
 
 #### Thingiverse
 xxx

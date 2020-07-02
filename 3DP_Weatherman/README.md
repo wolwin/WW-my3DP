@@ -27,7 +27,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
   - siehe 'YAWS-Tooolbox' - ['STALL-Weatherman'-Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_YAWS/README.md#stl-dateien)
 
 ### 3D-Druckparameter
-... _folgt in Kürze_
+- CURA 3D-Druckparameter für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_PrintParameter_20200617.zip)
 
 #### Thingiverse
 xxx
