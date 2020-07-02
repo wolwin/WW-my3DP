@@ -45,6 +45,7 @@ xxx
   - Glas: Fa. ibero - 'Kapern, Siebung Capucines' 35 g, EAN: 4013200552206 - z.B. erhältlich bei 'Edek*'
   - Dichtring 1 1/2": GEKA plus-Flachdichtungssatz je 3 Stck 40110D-40116D (1/2"-1 1/2"), Artikelnumer: 10.5000.9, EAN: 4015933010640 (d_a = 41,5 mm, d_i = 30,0 mm, dr = 6,0 mm, h = 2,0 mm)   
   - Kunststoff Kabelverschraubung M12 IP68
+  - tesa extra Power Perfect Gewebeband 56341, 2,75 m x 19 mm, schwarz - EAN: 4042448043993
 
 #### Konfiguration und Aufbau
 - <b>Stage 0</b> -  Grundplatten für 'STALL-Weatherman'
@@ -148,6 +149,10 @@ xxx
     - Wiska EVSP 12 Druckausgleichselement (mittig oben)
     <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Option_61.jpg "Stage 3 - Gehäuse Lichtsensor")
+    <br><br>
+    - Deckel 'OBO-T60' mit dünner Dämmung - nach dem Verschließen des Gehäuses, wird die Dichtfuge des 'OBO-T60' Gehäuses mit 'tesa extra Power Perfect Gewebeband' abgedeckt.
+    <br><br>
+    ![WW-my3DP - WM](./img/3DP_WM_Option_62.jpg "Stage 3 - Gehäuse Lichtsensor")
     <br><br>
     - Weatherman - Stage 3 - Version 06-2020
     <br><br>
