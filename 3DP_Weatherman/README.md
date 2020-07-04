@@ -30,7 +30,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 - CURA 3D-Druckparameter für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_PrintParameter_20200617.zip)
 
 #### Thingiverse
-xxx
+- [Thing 4523028 ...](https://www.thingiverse.com/thing:4523028)
 
 #### Material
 - Benutzte Materialien:<br>

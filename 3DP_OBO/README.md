@@ -29,6 +29,12 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 - PTFE Ventilationsschraube M10 - [Download ...](./bin/OBO_Screws_Ventilation_20200605.zip)
 - OBO SensorHousing - [Download ...](./bin/OBO_SensorHousing_20200103.zip)
 
+#### 3D-Druckparameter
+- CURA 3D-Druckparameter für 'OBO Toolbox' - [Download ...](./bin/OBO_PrintParameter_20200617.zip)
+
+#### Thingiverse
+- [Thing 4520450 ...](https://www.thingiverse.com/thing:4520450)
+
 #### Übersicht - Konstruktion OBO T40
 ![WW-my3DP - OBO Toolbox](./img/OBO_T40/OBO_T40_x_1.jpg "OBO T40")
 ![WW-my3DP - OBO Toolbox](./img/OBO_T40/OBO_T40_x_2.jpg "OBO T40")

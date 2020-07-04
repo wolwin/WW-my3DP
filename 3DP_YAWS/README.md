@@ -20,7 +20,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
 - CURA 3D-Druckparameter für 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_PrintParameter_20200630.zip)
 
 #### Thingiverse
-xxx
+- [Thing 4522512 ...](https://www.thingiverse.com/thing:4522512)
 
 #### Material
 - Benutzte Materialien:<br>
