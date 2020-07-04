@@ -8,11 +8,17 @@ Die OBO Toolbox dient als Grundlage für unterschiedliche IOT-Projekte, bei dene
 
 Für die Modelle T40, T60 und T100 wurden an das jeweilige Gehäuse angepaßte Grundplatten konstruiert. Damit ist es möglich mit Hilfe eines 3D-Druckers seine eigenen Befestigungen auf der Grundplatte unterzubringen oder zu erweitern ([Beispiel siehe hier ...](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO_T40_HB/README.md)).
 
+Während die Grundplatte für das Modell T40 steckbar ist, werden für die Modelle T60 und T100 noch 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 3,5 x 9,5 mm' zur Befestigung benötigt.
+
 Wesentliches Merkmal für alle Modelle sind jedoch die Schrauverbinder. Sie stellen die mechanische Verbindung vom T-Gehäuse zu unterschiedlichen externen Objekten her - das geht vom kleinen 'Sensor-Housing' bis zur großen Wetterkappe.
 
 Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann man entweder kommerzielle Entlüftungen vorsehen (z.B.: 'Wiska EVSP 12 Druckausgleichselement M12' - EAN: 2050001453440) oder mit Hilfe einer PTFE Druckausgleichsmembran DAM-AD (B+B Sensors - Druckausgleich-Membran Ø6,7/5,3 - Art.Nr.: SHOP DAM-AD7) eine selbstgebaute Variante einsetzen.
 
 #### OBO - Produktbeschreibungen
+- OBO Bettermann T40 - EAN 4012195246756
+- OBO Bettermann T60 - EAN 4012195246787
+- OBO Bettermann T100 - EAN 4012195246794
+<br><br>
 - OBO Kabelabzweigkasten T - [Download ...](./bin/OBO_Kabelabzweigkasten_T.zip)
 
 #### STL-Dateien
@@ -70,7 +76,93 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 ![WW-my3DP - OBO Toolbox](./img/OBO_SensorHousing/OBO_SensorHousing_G_Top.jpg "OBO SensorHousing Great")
 ![WW-my3DP - OBO Toolbox](./img/OBO_SensorHousing/OBO_SensorHousing_X_Inside.jpg "OBO SensorHousing Inside")
 
+#### Bilder
+- Gehäuse OBO T40
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T40.jpg "OBO T40")
+  <br><br>
+- Gehäuse OBO T40 mit Grundplatte
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T40_Plate.jpg "OBO T40")
+  <br><br>
+- Gehäuse OBO T60
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T60.jpg "OBO T60")
+  <br><br>
+- Gehäuse OBO T60 mit Grundplatte
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T60_Plate.jpg "OBO T60")
+  <br><br>
+- Gehäuse O10O T60
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T100.jpg "OBO T100")
+  <br><br>
+- Gehäuse OBO T100 mit Grundplatten
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Case_T100_Plate.jpg "OBO T100")
+  <br><br>
+- Gehäuse OBO T60 mit einer Auswahl von Schraubverbindern und M10 bzw. M12 Kabeldurchführungen
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Screws_01.jpg "OBO Befestigungen")
+  <br><br>
+- Gehäuse OBO T60 mit einer Kombination von Schraubverbindern und M10 bzw. M12 Kabeldurchführungen
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Screws_02.jpg "OBO Befestigungen")
+  <br><br>
+- Gehäuse OBO T60 mit M10 Schraubverbinder und Kabeldurchführung (außen)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Screws_03.jpg "OBO Befestigungen")
+  <br><br>
+- Gehäuse OBO T60 mit M10 Schraubverbinder und Kabeldurchführung (innen)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Screws_04.jpg "OBO Befestigungen")
+  <br><br>
+- Gehäuse OBO T60 mit M10 Schraubverbinder und SensorHousing (Befestigung oben)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_01.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T60 mit M10 Schraubverbinder und SensorHousing - Befestigung
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_02.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T60 mit Grundplatte, Schraubverbinder und SensorHousing (Befestigung oben)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_03.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T60 mit M10 Schraubverbinder und SensorHousing (Befestigung hinten)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_04.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T60 mit Grundplatte, Schraubverbinder und SensorHousing (Befestigung hinten)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_05.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T40 mit Grundplatte, zwei Schraubverbindern für SensorHousing  (Befestigung hinten) und Kabeldurchführung (außen)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_06.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Gehäuse OBO T40 mit Grundplatte, zwei Schraubverbindern für SensorHousing (Befestigung hinten) und Kabeldurchführung (innen)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_House_07.jpg "OBO OBO_SensorHousing")
+  <br><br>
+- Sensorhalterung für SensorHousing (Verbindung über Präzisionssokel)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_01.jpg "OBO OBO_SensorHousing Halterung")
+  <br><br>
+- Einschub von einer Sensorhalterung im SensorHousing
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_02.jpg "OBO OBO_SensorHousing Halterung")
+  <br><br>
+- Einschub von zwei Sensorhalterungen im SensorHousing (BME280 im Präzisionssockel)
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_03.jpg "OBO OBO_SensorHousing Halterung")
+  <br><br>
+- Einschub von zwei Sensorhalterungen (gedreht) im SensorHousing
+  <br><br>
+  ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_04.jpg "OBO OBO_SensorHousing Halterung")
+
 #### Historie
+- 2020-07-04 - Bilder hinzugefügt
 - 2020-06-23 - Erweiterung Schraubverbinder M10 M12 M16
   - Version 1.2 - 06-2020
 - 2020-06-05 - Update und Erweiterung
