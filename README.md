@@ -16,6 +16,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
+- 'WW-mySHT' - Smart-Home-Tools - [Zeigen ...](https://github.com/wolwin/WW-mySHT/blob/master/README.md)
 - 'WW-myPCB' - Printed-Circuit-Board Projekte - [Zeigen ...](https://github.com/wolwin/WW-myPCB/blob/master/README.md)
 
 ## Disclaimer
