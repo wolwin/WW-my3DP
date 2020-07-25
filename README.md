@@ -13,6 +13,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [HB‑UNI‑Sen‑CAP‑MOIST](./3DP_HB-UNI-Sen-CAP-MOIST/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor mit optionalem Temperatursensor DS18B20 für die Integration in HomeMatic' |
  | [YAWS‑Toolbox&nbsp;‑&nbsp;Version&nbsp;3](./3DP_YAWS/README.md "Zeigen ...") | 'Yet Another Weather Shield' - Toolbox - Version 3 |
  | [STALL‑Weatherman](./3DP_Weatherman/README.md "Zeigen ...") | Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die Hausautomation von Dr. Stall |
+ | [HB‑LC‑Bl1‑Velux](./3DP_HB-LC-BL1-Velux-KLI310/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMatic zur Steuerung von Velux Rolladen' |
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
