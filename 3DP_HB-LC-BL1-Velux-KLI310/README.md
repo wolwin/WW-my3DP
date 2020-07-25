@@ -12,7 +12,7 @@ Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMa
 - [Download ...](./bin/3DP_STL_Velux-KLI310_20200724.zip)
 
 #### Thingiverse
-- [Thing xxxxxxx ...](https://www.thingiverse.com/thing:xxxxxxx)
+- [Thing 4552342 ...](https://www.thingiverse.com/thing:4552342)
 
 #### Bilder
 - Übersicht - Konstruktion
