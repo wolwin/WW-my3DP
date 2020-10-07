@@ -27,7 +27,7 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
   | 4 | 2,2 x 6,5 | Rückwand Deckel |
 
 #### Thingiverse
-- [Thing xxx ...](https://www.thingiverse.com/thing:xxx)
+- [Thing 4617250 ...](https://www.thingiverse.com/thing:4617250)
 
 #### Bilder
 - Übersicht - Konstruktion
