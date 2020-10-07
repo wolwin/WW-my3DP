@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige Push-Buttons'.
+Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten'.
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB‑Dis‑WM55‑Pb/README.md)
 
@@ -32,7 +32,7 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
 
 #### Bilder
 - Übersicht - Konstruktion
-  - Gehäuse für 3-fach AAA- bzw. AA-Batteriehalter - links flache Rückwand (ohne Erweiterungsmöglichkeit) - rechts mit tiefer Rückwand (mit Erweiterungsmöglichkeit).
+  - Gehäuse für 3-fach AAA- bzw. AA-Batteriehalter - links flache Rückwand (keine interne Erweiterung möglich) - rechts mit tiefer Rückwand (interne Erweiterung möglich).
     <br><br>
     ![WW-my3DP - HB‑Dis‑WM55‑Pb](./img/3DP_HB-Dis-WM55-Pb_01.jpg "")
     <br><br>
@@ -44,7 +44,7 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
     <br><br>
     ![WW-my3DP - HB‑Dis‑WM55‑Pb](./img/3DP_HB-Dis-WM55-Pb_03.jpg "")
     <br><br>
-  - Durchsicht alle Einbau-Komponenten.
+  - Rückansicht mit Durchsicht auf Einbau-Komponenten.
     <br><br>
     ![WW-my3DP - HB‑Dis‑WM55‑Pb](./img/3DP_HB-Dis-WM55-Pb_04.jpg "")
     <br><br>
@@ -80,4 +80,4 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
   <br><br>
 
 #### Historie
-- 2020-10-06 - Erstveröffentlichung
+- 2020-10-07 - Erstveröffentlichung

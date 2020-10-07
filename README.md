@@ -14,7 +14,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [YAWS‑Toolbox&nbsp;‑&nbsp;Version&nbsp;3](./3DP_YAWS/README.md "Zeigen ...") | 'Yet Another Weather Shield' - Toolbox - Version 3 |
  | [STALL‑Weatherman](./3DP_Weatherman/README.md "Zeigen ...") | Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die Hausautomation von Dr. Stall |
  | [HB‑LC‑Bl1‑Velux](./3DP_HB-LC-BL1-Velux-KLI310/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMatic zur Steuerung von Velux Rolladen' |
- | [HB‑Dis‑WM55‑Pb](./3DP_HB‑Dis‑WM55‑Pb/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige Push-Buttons' |
+ | [HB‑Dis‑WM55‑Pb](./3DP_HB‑Dis‑WM55‑Pb/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten' |
 
 ## Andere Übersichten
 - 'WW-mySHP' - Smart-Home-Projekte - [Zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/README.md)
