@@ -6,7 +6,7 @@
 
 Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten'.
 <br><br>
-[Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB‑Dis‑WM55‑Pb/README.md)
+[Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-Dis-WM55-Pb/README.md)
 
 Das Gehäuse kann auch für andere Homematic Module mit 50x50 mm Einsätzen genutzt werden.
 <br><br>
@@ -15,7 +15,6 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
 
 #### STL-Dateien
 - [Download ...](./bin/3DP_STL_HB-Dis-WM55-Pb_20200911.zip)
-<br><br>
 - Für den Zusammenbau der 3D-Druckteile werden folgende Schrauben benötigt:
   - 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 6,5 mm'
   - 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm'
