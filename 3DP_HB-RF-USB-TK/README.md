@@ -12,7 +12,7 @@ Gehäuse für die Platine 'HB-RF-USB-TK' von Alexander Reinert mit dem Homematic
 - [Download ...](./bin/3DP_STL_HB-RF-USB-TK_20210215.zip)
 
 #### Thingiverse
-- [Thing xxx ...](https://www.thingiverse.com/thing:xxx)
+- [Thing 4763356 ...](https://www.thingiverse.com/thing:4763356)
 
 #### Bilder
 - Übersicht - Konstruktion
