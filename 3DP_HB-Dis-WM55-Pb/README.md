@@ -18,6 +18,7 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
 - Für den Zusammenbau der 3D-Druckteile werden folgende Schrauben benötigt:
   - 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 6,5 mm'
   - 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 9,5 mm'
+
   | **Anzahl** | **Schrauben** | **Bezeichnung** |
   | --- | --- | --- |
   | 4 | 2,2 x 6,5 | Homematic-Systemhalter |
