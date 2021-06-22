@@ -15,9 +15,8 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 | 2021‑05‑22 | [Kopp Vision bracket for HM-WM55 modules (Homematic)](https://www.thingiverse.com/thing:4866383) |
 | 2021‑05‑22 | [Homematic rocker switch HM-WM55 modules](https://www.thingiverse.com/thing:4866261) |
 | 2021‑05‑22 | [Homematic Case HM-SEC-SCO](https://www.thingiverse.com/thing:4866144) |
-| 2020‑10‑07 | [Homematic Case HB-RF-USB-TK + RPI-RF-MOD](https://www.thingiverse.com/thing:4763356) |
-| 2021‑03‑12 | [Small Ball Mounting System (i.a. for CAMs like Pi, C270, GoPro)](https://www.thingiverse.com/thing:4632571) |
-| 2020‑10‑24 | [Homematic Table Display HB-Dis-WM-55-Pb](https://www.thingiverse.com/thing:4617250) |
+| 2021‑03‑21 | [Homematic Case HB-RF-USB-TK + RPI-RF-MOD](https://www.thingiverse.com/thing:4763356) |
+| 2020‑10‑24 | [Small Ball Mounting System (i.a. for CAMs like Pi, C270, GoPro)](https://www.thingiverse.com/thing:4632571) |
 | 2020‑10‑07 | [Homematic Table Display HB-Dis-WM-55-Pb](https://www.thingiverse.com/thing:4617250) |
 | 2020‑10‑02 | [7" LCD Display (ELECROW) with RASPI 3 (B/B+) - Multi-Remix](https://www.thingiverse.com/thing:4612776) |
 | 2020‑02‑07 | [Velux KLI 310 integration in HomeMatic (HB-LC-Bl1-Velux) to control Velux shutters](https://www.thingiverse.com/thing:4552342) |
