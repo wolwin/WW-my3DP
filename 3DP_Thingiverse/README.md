@@ -10,6 +10,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
 | **Datum** | **Beschreibung** |
 | --- | --- |
+| 2021‑06‑24 | [Vibration Damper Feet V2 (Anycubic I3 Mega + Prusa I3 MK3S)](https://www.thingiverse.com/thing:4893231) |
 | 2021‑06‑22 | [Small Ball Mounting System for Philips Hue Motion Sensor](https://www.thingiverse.com/thing:4891655) |
 | 2021‑06‑14 | [Holder for AC ZigBee Dimmer Controller with GIRA push button](https://www.thingiverse.com/thing:4885663) |
 | 2021‑05‑22 | [Kopp Vision bracket for HM-WM55 modules (Homematic)](https://www.thingiverse.com/thing:4866383) |
