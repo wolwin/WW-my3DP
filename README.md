@@ -16,6 +16,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [HB‑LC‑Bl1‑Velux](./3DP_HB-LC-BL1-Velux-KLI310/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMatic zur Steuerung von Velux Rolladen' |
  | [HB‑Dis‑WM55‑Pb](./3DP_HB-Dis-WM55-Pb/README.md "Zeigen ...") | Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten' |
  | [HB‑RF‑USB‑TK](./3DP_HB-RF-USB-TK/README.md "Zeigen ...") | Gehäuse für die Platine 'HB-RF-USB-TK' von Alexander Reinert mit dem Homematic Funkmodul 'RPI-RF-MOD' und externer Antenne zum Betrieb von funkgebundenen Homematic Geräten |
+ | [WM55-Module](./3DP_WM55_Module/README.md "Zeigen ...") | Unterschiedliche Module zum Aufbau eines WM55-Gehäuses |
  | | |
  | ['Thingiverse' Projekte](./3DP_Thingiverse/README.md "Zeigen ...") | Liste der eigenen 'Thingiverse' Projekte im Überblick |
 
