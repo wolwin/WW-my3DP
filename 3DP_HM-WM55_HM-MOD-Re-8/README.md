@@ -11,7 +11,7 @@ Details des Zusammenbaus siehe auch unter: [Projekt 'HM-WM55_HM-MOD-Re-8'](https
 
 _Anmerkung:_
 <br>
-Das 3D-Druck Gehäuse sollte farblich zu der Schaltereinheit 'GIRA System Standard 55 reinweiß glänzend' (ähnl. RAL 9010) passen. Da jedoch die meisten weißen Filamente ohne eine RAL-Angabe angeboten werden, habe ich (zufällig) das 'PRUSA - Weisses PLA Filament 1Kg' ausgewählt. Der GIRA Farbton der Schaltereinheit wird ganz gut getroffen. Jedoch erfordert das gewählte Filament erhöhte Aufmerksamkeit bei der Drucker-Konfiguration und der Ausgabe der Druckobjekte. Im ZIP-Archiv sind die notwendigen Druckeinstellungen hinterlegt.
+Das 3D-Druck Gehäuse sollte farblich zu der Schaltereinheit 'GIRA System Standard 55 reinweiß glänzend' (ähnl. RAL 9010) passen. Da jedoch die meisten weißen Filamente ohne eine RAL-Angabe angeboten werden, habe ich (zufällig) das 'PRUSA - Weisses PLA Filament 1Kg' ausgewählt. Der GIRA Farbton der Schaltereinheit wird ganz gut getroffen. Jedoch erfordert das gewählte Filament erhöhte Aufmerksamkeit bei der Drucker-Konfiguration und der Ausgabe der Druckobjekte. Im STL-Download-Archiv sind die notwendigen Druckeinstellungen hinterlegt.
 
 - Filament:
   - Prusa - Weisses PLA Filament 1Kg
