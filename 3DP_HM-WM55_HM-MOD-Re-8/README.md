@@ -4,7 +4,7 @@
 
 #### Beschreibung
 
-Unterschiedliche 3D-Druck Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das Homematic 8-Kanal-Empfangsmodul 'HM-MOD-Re-8'. Es handelt sich dabei um eine Modifikation bzw. Erweiterung des ['3D-Druck Projekts für 'HM-WM55' Module'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_HM-WM55_Module/README.md).
+Unterschiedliche 3D-Druck Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das Homematic 8-Kanal-Empfangsmodul 'HM-MOD-Re-8'. Es handelt sich dabei um eine Modifikation bzw. Erweiterung des ['3D-Druck Projekt für 'HM-WM55-Module'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_HM-WM55_HM-Module/README.md).
 <br><br>
 Details zum 3D-Druck und zum Zusammenbau siehe auch unter: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
 

@@ -4,9 +4,7 @@
 
 #### Beschreibung
 
-Unterschiedliche 3D-Druck Module zum Aufbau eines Homematic WM55-Gehäuses. Die Vorlagen können als Basis für eigene Entwicklungen dienen.
-<br><br>
-Siehe auch: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
+Unterschiedliche 3D-Druck Module zum Aufbau eines Homematic WM55-Gehäuses. Die Vorlagen können als Basis für eigene Entwicklungen dienen: siehe dazu auch: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
 
 #### STL-Dateien
 - Ersatz-Montageplatte für 55er Homematic-Geräte - [Download ...](./bin/3DP_STL_HM-WM55_Holder_20220721.zip)
