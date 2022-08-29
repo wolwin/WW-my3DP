@@ -43,7 +43,7 @@ Siehe auch: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/b
     <br><br>
   - Beispiel: Basis-Modul
     <br><br>
-    ![WW-my3DP - HM-WM55_HM-Module](./img/3DP_HM-WM55_HM-Module_Body_Basic.jpg "")
+    ![WW-my3DP - HM-WM55_HM-Module](./img/3DP_HM-WM55_HM-Module_Body_Base.jpg "")
     <br><br>
   - Wippe mit Clip-Funktion für vorhandene Homematic WM55 Platinen (z.B.: Homematic Funk-Wandtaster 2fach 'HM-PB-2-WM55-2')
     <br><br>
