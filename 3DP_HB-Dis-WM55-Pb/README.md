@@ -32,6 +32,7 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
 
 #### Bilder
 - Übersicht - Konstruktion
+  <br><br>
   - Gehäuse für 3-fach AAA- bzw. AA-Batteriehalter - links flache Rückwand (keine interne Erweiterung möglich) - rechts mit tiefer Rückwand (interne Erweiterung möglich).
     <br><br>
     ![WW-my3DP - HB‑Dis‑WM55‑Pb](./img/3DP_HB-Dis-WM55-Pb_01.jpg "")
