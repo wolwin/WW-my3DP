@@ -6,7 +6,18 @@
 
 Unterschiedliche 3D-Druck Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das Homematic 8-Kanal-Empfangsmodul 'HM-MOD-Re-8'. Es handelt sich dabei um eine Modifikation bzw. Erweiterung des ['3D-Druck Projekt für 'HM-WM55-Module'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_HM-WM55_HM-Module/README.md).
 <br><br>
-Details zum 3D-Druck und zum Zusammenbau siehe auch unter: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
+Details des Zusammenbaus siehe auch unter: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
+
+
+_Anmerkung:_
+<br>
+Das 3D-Druck Gehäuse sollte farblich zu der Schaltereinheit 'GIRA System Standard 55 reinweiß glänzend' (ähnl. RAL 9010) passen. Da jedoch die meisten weißen Filamente ohne eine RAL-Angabe angeboten werden, habe ich (zufällig) das 'PRUSA - Weisses PLA Filament 1Kg' ausgewählt. Der GIRA Farbton der Schaltereinheit wird ganz gut getroffen. Jedoch erfordert das gewählte Filament erhöhte Aufmerksamkeit bei der Drucker-Konfiguration und der Ausgabe der Druckobjekte. Im ZIP-Archiv sind die notwendigen Druckeinstellungen hinterlegt.
+
+- Filament:
+  - Prusa - Weisses PLA Filament 1Kg
+  - Prusa - Prusament PETG Clear 1Kg
+<br><br>
+- Gedruckt wurde mit 'CURA 14.13.1' auf einem 'Prusa MK3S' Drucker.
 
 #### STL-Dateien
 - [Download ...](./bin/3DP_STL_HM-WM55_MOD-Rx-8_20220627.zip)
