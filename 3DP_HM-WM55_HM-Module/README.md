@@ -31,7 +31,7 @@ Unterschiedliche 3D-Druck Module zum Aufbau eines Homematic WM55-Gehäuses. Die 
   <br><br>
   ![WW-my3DP - HM-WM55_HM-Module](./img/3DP_HM-WM55_HM-Module_Holder.jpg "")
   <br><br>
-  - Basis-Modul mit zwei AA-Batterieaufnahmen und Clip-Aufsatzbefestigung - von links nach rechts:
+  - Basis-Modul mit zwei AAA-Batterieaufnahmen und Clip-Aufsatzbefestigung - von links nach rechts:
     - Grundmodul für eigene Entwicklungen
     - Modul mit der Aufnahme für vorhandene Homematic WM55 Platinen (z.B.: Homematic Funk-Wandtaster 2fach 'HM-PB-2-WM55-2')
     - Modul für die Aufnahme der Homematic Platinen 'HM-MOD-Re-8' und 'HM-MOD-EM-8'
