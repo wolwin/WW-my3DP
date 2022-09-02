@@ -30,7 +30,7 @@ Damit das PLA-Gehäuse geschützt ist, wurde es nach dem Ausdruck und der Feinbe
   - [Folie aus Polycarbonat klar 1000 x 600 x 0,5 mm](https://www.amazon.de/gp/product/B09D9RKPYK/ref=ppx_yo_dt_b_asin_image_o04_s00?ie=UTF8&psc=1)
 
 #### Thingiverse
-- [Thing xxx ...](https://www.thingiverse.com/thing:xxx)
+- [Thing 5491839 ...](https://www.thingiverse.com/thing:5491839)
 
 #### Bilder
 - Übersicht - Konstruktion

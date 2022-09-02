@@ -21,7 +21,7 @@ Unterschiedliche 3D-Druck Module zum Aufbau eines Homematic WM55-Gehäuses. Die 
 - Wippe für vorhandene Homematic WM55 Platinen - [Download ...](./bin/3DP_STL_HM-WM55_Rocker_20210423.zip)
 
 #### Thingiverse
-- [Thing xxx ...](https://www.thingiverse.com/thing:xxx)
+- [Thing 5490797 ...](https://www.thingiverse.com/thing:5490797)
 - [Thing 4866261 ...](https://www.thingiverse.com/thing:4866261)
 
 #### Bilder
