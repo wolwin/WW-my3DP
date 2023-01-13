@@ -10,6 +10,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
+ | 2023‑01‑13 | [Homematic Case HmIP-RFUSB ](https://www.thingiverse.com/thing:5785914) |
  | 2022‑09‑02 | [Homematic HM-WM55 - HM-MOD-Re-8](https://www.thingiverse.com/thing:5491839) |
  | 2022‑09‑01 | [Homematic HM-WM55 - Body + Mounting Plate](https://www.thingiverse.com/thing:5490797) |
  | 2021‑06‑24 | [Vibration Damper Feet V2 (Anycubic I3 Mega + Prusa I3 MK3S)](https://www.thingiverse.com/thing:4893231) |
