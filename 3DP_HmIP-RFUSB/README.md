@@ -31,6 +31,7 @@ Gehäuse für die Platine des USB-Stick 'HmIP-RFUSB' von eQ3 und externer Antenn
 - Platinen Einbau
   <br><br>
   ![WW-my3DP - HmIP-RFUSB](./img/3DP_HmIP-RFUSB_03.jpg "")
+  <br><br>
   ![WW-my3DP - HmIP-RFUSB](./img/3DP_HmIP-RFUSB_04.jpg "")
   <br><br>
   - Auslöten des Original Antennendrahtes von der USB-Platine.
