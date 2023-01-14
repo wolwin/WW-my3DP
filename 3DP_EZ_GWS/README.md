@@ -4,7 +4,8 @@
 
 #### Beschreibung
 
-Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen_</b> für das Projekt ['Homematic Energiezähler Gas, Wasser und Strom'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS/README.md)
+Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen_</b> für das Projekt ['Homematic Energiezähler für Gas, Wasser und Strom'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS/README.md)
+
 
 #### STL-Dateien
 - Gaszähler 'Pipersberg G4-RF1' mit:
