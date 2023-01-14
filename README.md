@@ -19,7 +19,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [HmIP-RFUSB](./3DP_HmIP-RFUSB/README.md "Zeigen ...") | Gehäuse für die Platine des USB-Stick 'HmIP-RFUSB' von eQ3 und externer Antenne zum Betrieb von funkgebundenen Homematic Geräten |
  | [HM‑WM55_Module](./3DP_HM-WM55_HM-Module/README.md "Zeigen ...") | Unterschiedliche Basis-Module zum Aufbau eines Homematic WM55-Gehäuses |
  | [HM‑WM55_HM‑MOD‑Re‑8](./3DP_HM-WM55_HM-MOD-Re-8/README.md "Zeigen ...") | Unterschiedliche Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das 8-Kanal-Empfangsmodul 'HM-MOD-Re-8' |
- | [Gehäuse&nbsp;Energiezähler](./3DP_EZ_GWS/README.md "Zeigen ...") | Gehäuse für Breakout-Impulsgeber von Gas-, Wasser- und Stromzähler |
+ | [Gehäuse&nbsp;HM‑Energiezähler](./3DP_EZ_GWS/README.md "Zeigen ...") | Gehäuse für Breakout-Impulsgeber von Gas-, Wasser- und Stromzähler |
  | | |
  | ['Thingiverse' Projekte](./3DP_Thingiverse/README.md "Zeigen ...") | Liste der eigenen 'Thingiverse' Projekte im Überblick |
 
