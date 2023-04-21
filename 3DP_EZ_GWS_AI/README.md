@@ -7,7 +7,7 @@ Unterschiedliche 3D-Druck Gehäuse für das Projekt [''AI-on-the-edge-device' En
 
 ### STL-Dateien
 - ESP32 Modulhalter für 'AI on the edge' Gas-, Wasser- und Stromzähler:
-    - 'AI on the edge' Modulhalter - [Download ...](./bin/EZ-AI_Strom_20230107.zip)
+    - 'AI on the edge' Modulhalter - [Download ...](./bin/EZ-AI_Strom_20230413.zip)
   </br></br>
 
 - Gaszähler 'Pipersberg G4-RF1' mit:
@@ -19,7 +19,7 @@ Unterschiedliche 3D-Druck Gehäuse für das Projekt [''AI-on-the-edge-device' En
   </br></br>
 
 - Ferraris Tarifstromzähler 'Siemens Drehstromzähler' mit:
-  - 'AI on the edge' mit Spiegel - [Download ...](./bin/EZ-AI_Strom_20230107.zip)
+  - 'AI on the edge' mit Spiegel - [Download ...](./bin/EZ-AI_Strom_20230413.zip)
   </br></br>
 
 ### Bilder
