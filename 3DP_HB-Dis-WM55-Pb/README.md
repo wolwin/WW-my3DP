@@ -1,6 +1,6 @@
 # WW-my3DP - HB‑Dis‑WM55‑Pb
 
-[Zurück zur Übersicht ...](../README.md)
+[Zurück zur Übersicht ... ](../README.md)
 
 ### Beschreibung
 Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten'.

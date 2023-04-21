@@ -1,6 +1,6 @@
 # WW-my3DP - HmIP-RFUSB (eQ3-Version) mit externer Antenne
 
-[Zurück zur Übersicht ...](../README.md)
+[Zurück zur Übersicht ... ](../README.md)
 
 ### Beschreibung
 Gehäuse für die Platine des USB-Stick 'HmIP-RFUSB' von eQ3 und externer Antenne zum Betrieb von funkgebundenen Homematic Geräten.

@@ -1,6 +1,6 @@
 # WW-my3DP - Thingiverse
 
-[Zurück zur Übersicht ...](../README.md)
+[Zurück zur Übersicht ... ](../README.md)
 
 ### Beschreibung
 Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereitet und hier auf Github veröffentlicht. Stattdessen finden sich auf 'Thingiverse' weitere Veröffentlichungen, die über die folgende Link-Liste direkt aufgerufen werden können.
