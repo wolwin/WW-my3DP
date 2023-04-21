@@ -1,6 +1,6 @@
 # WW-my3DP - Gehäuse für Breakout-Impulsgeber von Gas-, Wasser- und Stromzähler
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen_</b> für das Projekt ['Homematic Energiezähler für Gas, Wasser und Strom'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS/README.md)

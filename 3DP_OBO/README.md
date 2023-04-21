@@ -1,6 +1,6 @@
 # WW-my3DP - OBO Toolbox
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Die OBO Toolbox dient als Grundlage für unterschiedliche IOT-Projekte, bei denen es darauf ankommt, die Elektronik wirksam vor den Außeneinflüßen zu schützen. Es kommen dabei drei Modelle des 'Kabelabzweigkasten T' der Firma 'OBO Betterman' zum Einsatz, die m.E. besonders für den Außeneinsatz - z.B. im Garten - geeignet sind (IP66 und UV-beständig), da sie eine gute Langzeitstabilität aufweisen.

@@ -1,6 +1,6 @@
 # WW-my3DP - Gehäuse für 'AI on the edge' Module für Gas-, Wasser- und Stromzähler
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Unterschiedliche 3D-Druck Gehäuse für das Projekt [''AI-on-the-edge-device' Energiezähler für Gas, Wasser und Strom im Homematic Umfeld'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS_AI/README.md)

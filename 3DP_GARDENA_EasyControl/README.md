@@ -1,6 +1,6 @@
 # WW-my3DP - GARDENA EasyControl
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Gehäuse für das Projekt 'HomeMatic Gardena 9V Ventil' und 'GARDENA EasyControl' (das Gerät verhält sich wie ein Standard 'HM-LC-SW1-BA-PCB')

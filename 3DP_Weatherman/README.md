@@ -1,6 +1,6 @@
 # WW-my3DP - Gehäuse-Erweiterungen der Wetterstation 'STALL-Weatherman'
 
-[Zurück zur Übersicht ... ](../README.md)
+[Zurück zur Übersicht ...](../README.md)
 
 ### Beschreibung
 Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die Hausautomation von Dr. Stall.
