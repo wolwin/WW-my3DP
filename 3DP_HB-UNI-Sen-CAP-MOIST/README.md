@@ -2,19 +2,18 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor mit optionalem Temperatursensor DS18B20 für die Integration in HomeMatic'
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-UNI-Sen-CAP-MOIST/README.md)
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_HB-UNI-Sen-CAP-MOIST_20200204.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4147410 ...](https://www.thingiverse.com/thing:4147410)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktionen
 <br><br>
 ![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/CAP-MOIST_01_50.jpg "Gehäuse HB-UNI-Sen-CAP-MOIST")
@@ -57,8 +56,6 @@ Gehäuse für das Projekt 'HB-UNI-Sen-CAP-MOIST - Kapazitiver Bodenfeuchtesensor
 ![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_08.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 ![WW-my3DP - HB-UNI-Sen-CAP-MOIST](./img/3DP_CAP-MOIST_09.jpg "Gehäuse mit Platine HB-UNI-Sen-CAP-MOIST-T")
 
-
-
-#### Historie
+### Historie
 - 2020-02-04 - Erstveröffentlichung
   - Version 1.0 - 02-2020

@@ -2,7 +2,7 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
+### Beschreibung
 Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die Hausautomation von Dr. Stall.
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_Weatherman/README.md)
@@ -15,7 +15,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 
 <b>Stage 3</b> - 'STALL-Weatherman' im OBO-Gehäuse und Wetterkappe aus der 'YAWS-Toolbox' mit der 'STALL-Weatherman' Option
 
-#### STL-Dateien
+### STL-Dateien
 - _Stage 0_
   - Grundplatten für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_Baseplate_20200616.zip)
 - _Stage 1_
@@ -26,13 +26,13 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
 - _Stage 3_
   - siehe 'YAWS-Tooolbox' - ['STALL-Weatherman'-Option](https://github.com/wolwin/WW-my3DP/blob/master/3DP_YAWS/README.md#stl-dateien)
 
-#### 3D-Druckparameter
+### 3D-Druckparameter
 - CURA 3D-Druckparameter für 'STALL-Weatherman' - [Download ...](./bin/3DP_STL_WM_PrintParameter_20200617.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4523028 ...](https://www.thingiverse.com/thing:4523028)
 
-#### Material
+### Material
 - Benutzte Materialien:<br>
   - 3D Druckmaterial: ANYCUBIC PLA+, weiß
   - HORNBACH Buntlack PU Acryllack glänzend glacierweiß 125 ml - EAN 4306517157760
@@ -47,7 +47,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
   - Kunststoff Kabelverschraubung M12 IP68
   - tesa extra Power Perfect Gewebeband 56341, 2,75 m x 19 mm, schwarz - EAN: 4042448043993
 
-#### Konfiguration und Aufbau
+### Konfiguration und Aufbau
 - <b>Stage 0</b> -  Grundplatten für 'STALL-Weatherman'
   <br><br>
   -  Grundplatten für Gehäuse 'RND 455-00223' und 'RND 455-00144' - 4 Edelstahl Senkkopfschrauben M4 x 20 sind im Weatherman Bausatz enthalten
@@ -158,7 +158,7 @@ Gehäuse-Erweiterungen der Selbstbau-Wetterstation 'STALL-Weatherman' für die H
     <br><br>
     ![WW-my3DP - WM](./img/3DP_WM_Option_65.jpg "Stage 3 - Gehäuse Lichtsensor")
 
-#### Historie
+### Historie
 - 2020-06-30 - Dokumentation
 - 2020-06-17 - Fix STL-Dateien RainCase
 - 2020-06-16 - Stage 0 - Grundplatten und STL-Dateien

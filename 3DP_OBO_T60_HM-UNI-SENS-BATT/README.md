@@ -2,14 +2,13 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 OBO Toolbox - OBO T60 für 'HM-UNI-SENS-BATT' Platine
 
-#### STL-Dateien
+### STL-Dateien
 - OBO T60 Grundplatte für 'HM-UNI-SENS-BATT' - [Download ...](./bin/OBO_T60_HM-UNI-SENS-BATT_20200103.zip)
 
-#### Bilder
+### Bilder
 - Konstruktion - OBO T60 für 'HM-UNI-SENS-BATT' Platine
 <br><br>
 ![WW-my3DP - OBO Toolbox](./img/OBO_T60_HM-UNI-SENS-BATT_1_1.jpg "OBO T60")
@@ -28,6 +27,6 @@ OBO Toolbox - OBO T60 für 'HM-UNI-SENS-BATT' Platine
 ![WW-my3DP - OBO Toolbox](./img/3DP_T60_HM-UNI-SENS-BATT_03.jpg "OBO T60 HM-UNI-SENS-BATT")
 ![WW-my3DP - OBO Toolbox](./img/3DP_T60_HM-UNI-SENS-BATT_04.jpg "OBO T60 HM-UNI-SENS-BATT")
 
-#### Historie
+### Historie
 - 2020-01-10 - Erstveröffentlichung
   - Version 1.0 - 12-2019

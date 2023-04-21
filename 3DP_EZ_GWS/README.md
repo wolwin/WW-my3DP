@@ -2,12 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen_</b> für das Projekt ['Homematic Energiezähler für Gas, Wasser und Strom'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_EZ_GWS/README.md)
 
-
-#### STL-Dateien
+### STL-Dateien
 - Gaszähler 'Pipersberg G4-RF1' mit:
   - 'TCRT5000-Breakout (KY-033)' - [Download ...](./bin/EZ-Gas_G4-RF1_TRCT5000_20230107.zip)
   -  'Hallgeber-Breakout (KY-024)' - [Download ...](./bin/EZ-Gas_G4-RF1_Hallgeber_20230107.zip)
@@ -20,7 +18,7 @@ Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen
 - Ferraris Tarifstromzähler 'Siemens Drehstromzähler' mit:
   - 'LED-Breakout (KY-033)' - [Download ...](./bin/EZ-Strom_LED_20230107.zip)
 
-#### Bilder
+### Bilder
 - <b>Gaszähler 'Pipersberg G4-RF1' mit 'TCRT5000-Breakout (KY-033)'</b>
   <br><br>
   ![WW-my3DP - EZ_GWS](./img/3DP_EZ-Gas_G4-RF1_TCRT_01.jpg "'TCRT5000 Breakout'")
@@ -77,5 +75,5 @@ Unterschiedliche 3D-Druck Gehäuse als <b>_einfache 'proof-of-concept' Lösungen
   <br><br>
   ![WW-my3DP - EZ_GWS](./img/3DP_EZ-Strom_LED_06.jpg "'LED Breakout (KY-033)'")
 
-#### Historie
+### Historie
 - 2023-01-13 - Erstveröffentlichung

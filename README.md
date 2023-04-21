@@ -20,7 +20,7 @@ der unterschiedlichen <b>_3D_</b>-Print <b>_P_</b>rojekte
  | [HM‑WM55_Module](./3DP_HM-WM55_HM-Module/README.md "Zeigen ...") | Unterschiedliche Basis-Module zum Aufbau eines Homematic WM55-Gehäuses |
  | [HM‑WM55_HM‑MOD‑Re‑8](./3DP_HM-WM55_HM-MOD-Re-8/README.md "Zeigen ...") | Unterschiedliche Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das 8-Kanal-Empfangsmodul 'HM-MOD-Re-8' |
  | [Gehäuse&nbsp;HM‑Energiezähler](./3DP_EZ_GWS/README.md "Zeigen ...") | Gehäuse für Breakout-Impulsgeber von Gas-, Wasser- und Stromzähler |
- | | |
+ | [Gehäuse&nbsp;AI‑Energiezähler](./3DP_EZ_GWS_AI/README.md "Zeigen ...") | Gehäuse für 'AI on the edge' Module für Gas-, Wasser- und Stromzähler |
  | ['Thingiverse' Projekte](./3DP_Thingiverse/README.md "Zeigen ...") | Liste der eigenen 'Thingiverse' Projekte im Überblick |
 
 ## Andere Übersichten

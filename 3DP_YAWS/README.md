@@ -2,27 +2,27 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
+### Beschreibung
 Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglichkeiten.
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_YAWS/README.md)
 
-#### Übersicht - 'YAWS-Toolbox'
+### Übersicht - 'YAWS-Toolbox'
 <br>![WW-my3DP - YAWS](./img/3DP_YAWS_Overview_01.jpg "YAWS-Toolbox - Übersicht")
 <br><br>
 
-#### STL-Dateien
+### STL-Dateien
 - 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_20200630.zip)
 - 'STALL-Weatherman'-Option für 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_WM_20200630.zip)
 - siehe 'OBO-Tooolbox' - ['Schraubverbinder M10 M12 M16' und 'PTFE Ventilationsschraube M10'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO/README.md#stl-dateien)
 
-#### 3D-Druckparameter
+### 3D-Druckparameter
 - CURA 3D-Druckparameter für 'YAWS-Toolbox - V3' - [Download ...](./bin/3DP_STL_YAWS_V3_PrintParameter_20200630.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4522512 ...](https://www.thingiverse.com/thing:4522512)
 
-#### Material
+### Material
 - Benutzte Materialien:<br>
   - 3D Druckmaterial: ANYCUBIC PLA+, weiß
   - HORNBACH Buntlack PU Acryllack glänzend glacierweiß 125 ml - EAN 4306517157760
@@ -42,7 +42,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
   - Glas: Fa. ibero - 'Kapern, Siebung Capucines' 35 g, EAN: 4013200552206 - z.B. erhältlich bei 'Edek*'
   - Kunststoff Kabelverschraubung M12 IP68
 
-#### Konfiguration
+### Konfiguration
 - YAWS Konfiguration
   <br><br>
   - Die Konfiguration der YAWS Wetterkappe erfolgt kombinatorisch über vier Ebenen:
@@ -115,7 +115,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
   <br><br>
   ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_63.jpg "YAWS-Toolbox")
 
-#### Aufbau und Inbetriebnahme
+### Aufbau und Inbetriebnahme
 - YAWS - Aufbau allgemein
   -  Alle 3D-Druckteile wurden mit hochwertigem (weißem) PLA-Material gedruckt. Um eine gewisse UV- und Wasserbeständigkeit zu erreichen, wurden alle Teile VOR dem Zusammenbau mit UV-beständigem PU-Acryllack auf Wasserbasis gestrichen (siehe Materialliste).
   - Die Verwendung des UV-beständigem LUGATO Silikon erfordert Geduld: handfest wird das Silikon erst nach 24 Stunden - wirklich fest ist das Silikon nach ca. 7 Tagen Trocknung (siehe Aufdruck auf der Kartusche) - dann aber hält es ... und dichtet bei Kälte und Hitze!!
@@ -319,7 +319,7 @@ Toolbox für eine universielle Wetterkappe mit vielfältigen Kombinationsmöglic
 <br><br>
 ![WW-my3DP - YAWS](./img/3DP_YAWS_Option_WM_63.jpg "YAWS-Toolbox")
 
-#### Historie
+### Historie
 - 2020-06-30 - Dokumentation und Final STL-Dateien (alle)
 - 2020-06-27 - Erweiterung 'STALL-Weatherman'-Option - neue WM Halterung
 - 2020-06-27 - Erweiterung STL-Dateien 'YAWS-Toolbox' - Halterung verstärkt

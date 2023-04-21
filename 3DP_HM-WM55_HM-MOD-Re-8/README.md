@@ -2,8 +2,7 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Unterschiedliche 3D-Druck Aufsatz-Module zum Aufbau eines Homematic WM55-Gehäuses für das Homematic 8-Kanal-Empfangsmodul 'HM-MOD-Re-8'. Es handelt sich dabei um eine Modifikation bzw. Erweiterung des ['3D-Druck Projekt für 'HM-WM55-Module'](https://github.com/wolwin/WW-my3DP/blob/master/3DP_HM-WM55_HM-Module/README.md).
 <br><br>
 Details des Zusammenbaus siehe auch unter: [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
@@ -19,7 +18,7 @@ Damit das PLA-Gehäuse geschützt ist, wurde es nach dem Ausdruck und der Feinbe
 <br><br>
 - Gedruckt wurde mit 'CURA 14.13.1' auf einem 'Prusa MK3S' Drucker.
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_HM-WM55_MOD-Rx-8_20220627.zip)
 </br></br>
 - Es werden folgende Batterie-Kontakte benötigt:
@@ -29,10 +28,10 @@ Damit das PLA-Gehäuse geschützt ist, wurde es nach dem Ausdruck und der Feinbe
 - Für das Label wird eine Folienabdeckung empfohlen:
   - [Folie aus Polycarbonat klar 1000 x 600 x 0,5 mm](https://www.amazon.de/gp/product/B09D9RKPYK/ref=ppx_yo_dt_b_asin_image_o04_s00?ie=UTF8&psc=1)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 5491839 ...](https://www.thingiverse.com/thing:5491839)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktion
   <br><br>
   - Basis-Modul mit zwei AAA-Batterieaufnahmen und Clip-Aufsatzbefestigung für [Projekt 'HM-WM55_HM-MOD-Re-8'](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HM-WM55_HM-MOD-Re-8/README.md)
@@ -64,5 +63,5 @@ Damit das PLA-Gehäuse geschützt ist, wurde es nach dem Ausdruck und der Feinbe
   ![WW-my3DP - HM-WM55_HM-MOD-Re-8](./img/3DP_HM-WM55_HM-MOD-Rx-8_03.jpg "")
   <br><br>
 
-#### Historie
+### Historie
 - 2022-08-29 - Erstveröffentlichung

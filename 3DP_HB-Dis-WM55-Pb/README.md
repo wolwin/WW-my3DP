@@ -2,8 +2,7 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Gehäuse für das Projekt 'HB‑Dis‑WM55‑Pb - Erweiterung der Homematic 'Funk-Statusanzeige HM-Dis-WM55' zur externen zusätzlichen Ansteuerung der Anzeige-Tasten'.
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-Dis-WM55-Pb/README.md)
@@ -13,7 +12,7 @@ Das Gehäuse kann auch für andere Homematic Module mit 50x50 mm Einsätzen genu
 Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
 ['Homematic Table / Desk Stand Tischaufsteller' by conny_g January 13, 2018](https://www.thingiverse.com/thing:2755553)
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_HB-Dis-WM55-Pb_20200911.zip)
 - Für den Zusammenbau der 3D-Druckteile werden folgende Schrauben benötigt:
   - 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 2,2 x 6,5 mm'
@@ -27,10 +26,10 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
     | 1 | 2,2 x 9,5 | Batteriehalter |
     | 4 | 2,2 x 6,5 | Rückwand Deckel |
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4617250 ...](https://www.thingiverse.com/thing:4617250)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktion
   <br><br>
   - Gehäuse für 3-fach AAA- bzw. AA-Batteriehalter - links flache Rückwand (keine interne Erweiterung möglich) - rechts mit tiefer Rückwand (interne Erweiterung möglich).
@@ -80,5 +79,5 @@ Der Entwurf basiert auf dieser Thingiverse Veröffentlichung:
   ![WW-my3DP - HB‑Dis‑WM55‑Pb](./img/3DP_HB-Dis-WM55-Pb_23.jpg "")
   <br><br>
 
-#### Historie
+### Historie
 - 2020-10-07 - Erstveröffentlichung

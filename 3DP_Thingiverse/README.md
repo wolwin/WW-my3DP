@@ -2,11 +2,10 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereitet und hier auf Github veröffentlicht. Stattdessen finden sich auf 'Thingiverse' weitere Veröffentlichungen, die über die folgende Link-Liste direkt aufgerufen werden können.
 
-#### Thingiverse
+### Thingiverse
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
@@ -38,7 +37,6 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
  | 2019‑02‑20 | [Anycubic I3 Mega - Vibration Damper Feet](https://www.thingiverse.com/thing:3440488) |
  | 2019‑02‑20 | [Anycubic I3 Mega - Mega S Filament Holder](https://www.thingiverse.com/thing:3440835) |
 
-
-#### Historie
+### Historie
 - 2022-09-01 - Update
 - 2021-06-22 - Erstveröffentlichung

@@ -2,14 +2,13 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 OBO Toolbox - OBO T40 für 'HB HomeBrew' Platinen
 
-#### STL-Dateien
+### STL-Dateien
 - OBO T40 für 'HB HomeBrew' Platinen - [Download ...](./bin/OBO_T40_HB_20200305.zip)
 
-#### Bilder
+### Bilder
 - Übersicht - OBO T40 für 'HB HomeBrew' Platinen
 <br><br>
 ![WW-my3DP - OBO Toolbox HB](./img/OBO_T40_HB_01.jpg "OBO T40 HB")
@@ -40,7 +39,7 @@ OBO Toolbox - OBO T40 für 'HB HomeBrew' Platinen
 ![WW-my3DP - OBO Toolbox HB](./img/OBO_T40_Holder_HB-UNI-Mini.jpg "OBO_T40_Holder_HB-UNI-Mini")
 ![WW-my3DP - OBO Toolbox HB](./img/OBO_T40_HB_BatHolder_9V.jpg "OBO_T40_HB_BatHolder_9V")
 
-#### Historie
+### Historie
 - 2020-03-05 - Komplett-Update der STL 3D-Print Dateien
   - Version 1.1 - 03-2020
 - 2020-01-10 - Erstveröffentlichung

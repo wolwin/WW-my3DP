@@ -2,19 +2,18 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Gehäuse für die Platine 'HB-RF-USB-TK' von Alexander Reinert mit dem Homematic Funkmodul 'RPI-RF-MOD' und externer Antenne zum Betrieb von funkgebundenen Homematic Geräten.
 <br><br>
 [Projekt zeigen ...](https://github.com/alexreinert/PCB#hb-rf-usb)
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_HB-RF-USB-TK_20210215.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4763356 ...](https://www.thingiverse.com/thing:4763356)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktion
 <br><br>
 ![WW-my3DP - HB-RF-USB-TK](./img/3DP_HB-RF-USB-TK_01.jpg "")
@@ -42,5 +41,5 @@ Gehäuse für die Platine 'HB-RF-USB-TK' von Alexander Reinert mit dem Homematic
   - Amazon Basics 7A82V4 Verbindungskabel, USB 2.0, USB-A-Stecker auf Micro-USB-B-Stecker 0,9 m
 <br><br>
 
-#### Historie
+### Historie
 - 2021-02-15 - Erstveröffentlichung

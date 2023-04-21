@@ -2,18 +2,17 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Gehäuse für die Platine des USB-Stick 'HmIP-RFUSB' von eQ3 und externer Antenne zum Betrieb von funkgebundenen Homematic Geräten.
 <br><br>
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_HmIP-RFUSB_20230112.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 5785914 ...](https://www.thingiverse.com/thing:5785914)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktion
 <br><br>
 ![WW-my3DP - HmIP-RFUSB](./img/3DP_HmIP-RFUSB_01.jpg "")
@@ -47,5 +46,5 @@ Gehäuse für die Platine des USB-Stick 'HmIP-RFUSB' von eQ3 und externer Antenn
 <br><br>
 Um Funkstörungen zu vermeiden, sollte das Gehäuse mit einem langen (2 - 3 m) USB Verlängerungskabel vom Virtualisierungshost abgesetzt und zusätzlich auch noch ein vorgelagerter [USB Entstörfilter](https://de.retail.elv.com/elv-usb-entstoerfilter-usb-ef1-komplettbausatz-152745) eingesetzt werden:
 
-#### Historie
+### Historie
 - 2023-01-13 - Erstveröffentlichung

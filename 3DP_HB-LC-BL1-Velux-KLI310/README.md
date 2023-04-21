@@ -2,19 +2,18 @@
 
 [Zurück zur Übersicht ...](../README.md)
 
-#### Beschreibung
-
+### Beschreibung
 Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMatic zur Steuerung von Velux Rolladen'
 <br><br>
 [Projekt zeigen ...](https://github.com/wolwin/WW-mySHP/blob/master/SHP_HB-LC-BL1-Velux-KLI310/README.md)
 
-#### STL-Dateien
+### STL-Dateien
 - [Download ...](./bin/3DP_STL_Velux-KLI310_20200724.zip)
 
-#### Thingiverse
+### Thingiverse
 - [Thing 4552342 ...](https://www.thingiverse.com/thing:4552342)
 
-#### Bilder
+### Bilder
 - Übersicht - Konstruktion
 <br><br>
 ![WW-my3DP - HB-LC-BL1-Velux](./img/3DP_Velux-KLI_01.jpg "Gehäuse-Typen für HB-LC-BL1-Velux")
@@ -78,5 +77,5 @@ Gehäuse für das Projekt 'HB-LC-Bl1-Velux - Velux KLI 310 Integration in HomeMa
 ![WW-my3DP - HB-LC-BL1-Velux](./img/3DP_Velux-KLI_29.jpg "")
 <br><br>
 
-#### Historie
+### Historie
 - 2020-07-24 - Erstveröffentlichung
