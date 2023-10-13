@@ -9,7 +9,10 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
- | 2023‑01‑13 | [Homematic Case HmIP-RFUSB ](https://www.thingiverse.com/thing:5785914) |
+ | 2023-10-12 | [35mm DIN rail mount for DC socket with fuse](https://www.thingiverse.com/thing:6262025) |
+ | 2023-10-12 | [Ventus W132 - Replacement anemometer](https://www.thingiverse.com/thing:6261761) |
+ | 2023-10-11 | [Anycubic I3 Mega - Fanbox](https://www.thingiverse.com/thing:6258936) |
+ | 2023‑01‑13 | [Homematic Case HmIP-RFUSB](https://www.thingiverse.com/thing:5785914) |
  | 2022‑09‑02 | [Homematic HM-WM55 - HM-MOD-Re-8](https://www.thingiverse.com/thing:5491839) |
  | 2022‑09‑01 | [Homematic HM-WM55 - Body + Mounting Plate](https://www.thingiverse.com/thing:5490797) |
  | 2021‑06‑24 | [Vibration Damper Feet V2 (Anycubic I3 Mega + Prusa I3 MK3S)](https://www.thingiverse.com/thing:4893231) |
@@ -38,5 +41,6 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
  | 2019‑02‑20 | [Anycubic I3 Mega - Mega S Filament Holder](https://www.thingiverse.com/thing:3440835) |
 
 ### Historie
+- 2023-10-13 - Update
 - 2022-09-01 - Update
 - 2021-06-22 - Erstveröffentlichung
