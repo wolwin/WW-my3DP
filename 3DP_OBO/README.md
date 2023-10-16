@@ -5,18 +5,22 @@
 ### Beschreibung
 Die OBO Toolbox dient als Grundlage für unterschiedliche IOT-Projekte, bei denen es darauf ankommt, die Elektronik wirksam vor den Außeneinflüßen zu schützen. Es kommen dabei drei Modelle des 'Kabelabzweigkasten T' der Firma 'OBO Betterman' zum Einsatz, die m.E. besonders für den Außeneinsatz - z.B. im Garten - geeignet sind (IP66 und UV-beständig), da sie eine gute Langzeitstabilität aufweisen.
 
-Für die Modelle T40, T60 und T100 wurden an das jeweilige Gehäuse angepaßte Grundplatten konstruiert. Damit ist es möglich mit Hilfe eines 3D-Druckers seine eigenen Befestigungen auf der Grundplatte unterzubringen oder zu erweitern ([Beispiel siehe hier ...](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO_T40_HB/README.md)).
+Für die Modelle T40, T60. T100, T160 und T250 wurden an das jeweilige Gehäuse angepaßte Grundplatten konstruiert. Damit ist es möglich mit Hilfe eines 3D-Druckers seine eigenen Befestigungen auf der Grundplatte unterzubringen oder zu erweitern ([Beispiel siehe hier ...](https://github.com/wolwin/WW-my3DP/blob/master/3DP_OBO_T40_HB/README.md)).
 
-Während die Grundplatte für das Modell T40 steckbar ist, werden für die Modelle T60 und T100 noch 4 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 3,5 x 9,5 mm' zur Befestigung benötigt.
+Während die Grundplatte für das Modell T40 steckbar ist, werden für die Modelle T60, T100, T160 und T250 noch 'Blechschrauben DIN 7981 TX Edelstahl VA Linsenkopf 3,5 x 9,5 mm' zur Befestigung benötigt.
 
 Wesentliches Merkmal für alle Modelle sind jedoch die Schrauverbinder. Sie stellen die mechanische Verbindung vom T-Gehäuse zu unterschiedlichen externen Objekten her - das geht vom kleinen 'Sensor-Housing' bis zur großen Wetterkappe.
 
-Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann man entweder kommerzielle Entlüftungen vorsehen (z.B.: 'Wiska EVSP 12 Druckausgleichselement M12' - EAN: 2050001453440) oder mit Hilfe einer PTFE Druckausgleichsmembran DAM-AD (B+B Sensors - Druckausgleich-Membran Ø6,7/5,3 - Art.Nr.: SHOP DAM-AD7) eine selbstgebaute Variante einsetzen.
+Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann man entweder kommerzielle Entlüftungen vorsehen (z.B.: 'Wiska EVSP 12 Druckausgleichselement M12' - EAN: 2050001453440) oder mit Hilfe einer PTFE Druckausgleichsmembran DAM-AD (B+B Sensors - Druckausgleich-Membran - Details siehe unten) eine selbstgebaute Variante einsetzen.
 
 ### OBO - Produktbeschreibungen
+- OBO Bettermann T25 - EAN 4012195246770
 - OBO Bettermann T40 - EAN 4012195246756
 - OBO Bettermann T60 - EAN 4012195246787
 - OBO Bettermann T100 - EAN 4012195246794
+- OBO Bettermann T160 - EAN 4012195246800
+- OBO Bettermann T250 - EAN 4012195246817
+- OBO Bettermann T350 - EAN 4012195246824
 <br><br>
 - OBO Kabelabzweigkasten T - [Download ...](./bin/OBO_Kabelabzweigkasten_T.zip)
 
@@ -24,8 +28,10 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 - OBO T40 Grundplatte - [Download ...](./bin/OBO_T40_20200103.zip)
 - OBO T60 Grundplatte - [Download ...](./bin/OBO_T60_20200103.zip)
 - OBO T100 Grundplatte - [Download ...](./bin/OBO_T100_20200103.zip)
-- Schraubverbinder M10 M12 M16 - [Download ...](./bin/OBO_Screws_20200623.zip)
-- PTFE Ventilationsschraube M10 - [Download ...](./bin/OBO_Screws_Ventilation_20200605.zip)
+- OBO T150 Grundplatte - [Download ...](./bin/OBO_T160_20231016.zip)
+- OBO T250 Grundplatte - [Download ...](./bin/OBO_T250_20231016.zip)
+- Schraubverbinder M10 M12 M16 - [Download ...](./bin/OBO_Screws_20231016.zip)
+- PTFE Ventilationsschraube M10 M12 - [Download ...](./bin/OBO_Screws_Ventilation_20231016.zip)
 - OBO SensorHousing - [Download ...](./bin/OBO_SensorHousing_20200103.zip)
 
 ### 3D-Druckparameter
@@ -52,18 +58,32 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 ![WW-my3DP - OBO Toolbox](./img/OBO_T100/OBO_T100_x_3.jpg "OBO T100")
 ![WW-my3DP - OBO Toolbox](./img/OBO_T100/OBO_T100_x_4.jpg "OBO T100")
 
+### Übersicht - Konstruktion OBO T160
+![WW-my3DP - OBO Toolbox](./img/OBO_T160/OBO_T160_x_1.jpg "OBO T160")
+![WW-my3DP - OBO Toolbox](./img/OBO_T160/OBO_T160_x_2.jpg "OBO T160")
+![WW-my3DP - OBO Toolbox](./img/OBO_T160/OBO_T160_x_3.jpg "OBO T160")
+![WW-my3DP - OBO Toolbox](./img/OBO_T160/OBO_T160_x_4.jpg "OBO T160")
+
+### Übersicht - Konstruktion OBO T250
+![WW-my3DP - OBO Toolbox](./img/OBO_T250/OBO_T250_x_1.jpg "OBO T250")
+![WW-my3DP - OBO Toolbox](./img/OBO_T250/OBO_T250_x_2.jpg "OBO T250")
+![WW-my3DP - OBO Toolbox](./img/OBO_T250/OBO_T250_x_3.jpg "OBO T250")
+![WW-my3DP - OBO Toolbox](./img/OBO_T250/OBO_T250_x_4.jpg "OBO T250")
+
 ### Übersicht - Konstruktion OBO Schraubverbinder
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_10.jpg "OBO Screws M10")
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_12.jpg "OBO Screws M12")
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_16.jpg "OBO Screws M16")
 
-### Übersicht - Konstruktion PTFE Ventilationsschraube / Blindstopfen M10
-![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10_01.jpg "ScrewVentilation M10")
-![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10_02.jpg "ScrewVentilation M10")
-![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10_03.jpg "ScrewVentilation M10")
+### Übersicht - Konstruktion PTFE Ventilationsschraube / Blindstopfen M10 und M12
+![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10M11_01.jpg "ScrewVentilation M10 und M12")
+![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10M11_02.jpg "ScrewVentilation M10 und M12")
+![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10M11_03.jpg "ScrewVentilation M10 und M12")
 
   - Montage Ventilationsschraube mit Druckausgleich-Membran
     - B+B Sensors - Druckausgleich-Membran Ø6,7/5,3 VPE - Art. Nr.: SHOP DAM-AD7
+    - B+B Sensors - Druckausgleich-Membran Ø10,2/5,5 VPE - Art. Nr.: SHOP DAM-AD10
+    - B+B Sensors - Druckausgleich-Membran Ø12,7/7,1 VPE - Art. Nr.: SHOP DAM-AD12
   <br><br>
   ![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10_10.jpg "ScrewVentilation M10")
   <br><br>
@@ -167,6 +187,11 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
   ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_04.jpg "OBO OBO_SensorHousing Halterung")
 
 ### Historie
+- 2023-10-16 - Version 1.3 - 10-2023
+  - Erweiterung für OBO T160 und OBO T250
+  - Update Schraubverbinder M10 M12 M16
+  - Update Ventilationsschrauben M10 und M12
+  - Textanpassungen
 - 2020-07-04 - Bilder hinzugefügt
 - 2020-06-23 - Erweiterung Schraubverbinder M10 M12 M16
   - Version 1.2 - 06-2020
