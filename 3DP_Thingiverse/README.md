@@ -9,6 +9,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
+ | 2023‑10‑16 | [OBO Toolbox - V1.3](https://www.thingiverse.com/thing:4520450) |
  | 2023-10-12 | [35mm DIN rail mount for DC socket with fuse](https://www.thingiverse.com/thing:6262025) |
  | 2023-10-12 | [Ventus W132 - Replacement anemometer](https://www.thingiverse.com/thing:6261761) |
  | 2023-10-11 | [Anycubic I3 Mega - Fanbox](https://www.thingiverse.com/thing:6258936) |
