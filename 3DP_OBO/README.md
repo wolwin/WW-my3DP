@@ -30,7 +30,7 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 - OBO T100 Grundplatte - [Download ...](./bin/OBO_T100_20200103.zip)
 - OBO T160 Grundplatte - [Download ...](./bin/OBO_T160_20231016.zip)
 - OBO T250 Grundplatte - [Download ...](./bin/OBO_T250_20231016.zip)
-- Schraubverbinder M10 M12 M16 - [Download ...](./bin/OBO_Screws_20231016.zip)
+- Schraubverbinder M10 M12 M16 M18 M20 - [Download ...](./bin/OBO_Screws_20240611.zip)
 - PTFE Ventilationsschraube M10 M12 - [Download ...](./bin/OBO_Screws_Ventilation_20231016.zip)
 - OBO SensorHousing - [Download ...](./bin/OBO_SensorHousing_20200103.zip)
 
@@ -74,6 +74,8 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_10.jpg "OBO Screws M10")
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_12.jpg "OBO Screws M12")
 ![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_16.jpg "OBO Screws M16")
+![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_18.jpg "OBO Screws M18")
+![WW-my3DP - OBO Toolbox](./img/OBO_Screws/OBO_Screw_and_Nut_20.jpg "OBO Screws M20")
 
 ### Übersicht - Konstruktion PTFE Ventilationsschraube / Blindstopfen M10 und M12
 ![WW-my3DP - OBO Toolbox](./img/OBO_ScrewVentilation/ScrewVentilation_M10M11_01.jpg "ScrewVentilation M10 und M12")
