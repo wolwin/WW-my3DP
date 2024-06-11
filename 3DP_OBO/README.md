@@ -189,6 +189,8 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
   ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_04.jpg "OBO OBO_SensorHousing Halterung")
 
 ### Historie
+- 2024-06-11 - Version 1.4 - 06-2024
+  - Erweiterung Schraubverbinder M18 M20
 - 2023-10-16 - Version 1.3 - 10-2023
   - Erweiterung für OBO T160 und OBO T250
   - Update Schraubverbinder M10 M12 M16
