@@ -30,7 +30,8 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
 - OBO T100 Grundplatte - [Download ...](./bin/OBO_T100_20200103.zip)
 - OBO T160 Grundplatte - [Download ...](./bin/OBO_T160_20231016.zip)
 - OBO T250 Grundplatte - [Download ...](./bin/OBO_T250_20231016.zip)
-- Schraubverbinder M10 M12 M16 M18 M20 - [Download ...](./bin/OBO_Screws_20240611.zip)
+- Schraubverbinder M10 - [Download ...](./bin/OBO_Screws_20250716_2.zip)
+- Schraubverbinder M12 M16 M18 M20 - [Download ...](./bin/OBO_Screws_20250716_1.zip)
 - PTFE Ventilationsschraube M10 M12 - [Download ...](./bin/OBO_Screws_Ventilation_20231016.zip)
 - OBO SensorHousing - [Download ...](./bin/OBO_SensorHousing_20200103.zip)
 
@@ -189,6 +190,8 @@ Da Elektronik im Außenbereich 'atmen' sollte (wg. Kondenswasserbildung) kann ma
   ![WW-my3DP - OBO Toolbox](./img/OBO_Holder_04.jpg "OBO OBO_SensorHousing Halterung")
 
 ### Historie
+- 2025-07-16 - Version 1.5 - 07-2025
+  - Erweiterung Schraubverbinder M10x1 und M10x1,5
 - 2024-06-11 - Version 1.4 - 06-2024
   - Erweiterung Schraubverbinder M18 M20
 - 2023-10-16 - Version 1.3 - 10-2023
