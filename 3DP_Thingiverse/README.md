@@ -9,6 +9,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
+ | 2025‑08‑29 | [Mammotion LUBA-2 AWD X - RTK Adapter (2025)](https://www.thingiverse.com/thing:7130815) | 
  | 2025‑03‑20 | [Philips Hue DimmerSwitch-V2 for GIRA System 55](https://www.thingiverse.com/thing:6985498) | 
  | 2025-02-26 | [Sonoff NSPanel Enclosure with C8 socket and switch](https://www.thingiverse.com/thing:6962133) |
  | 2025‑02‑26 | [Ventus W132 - Replacement wind direction](https://www.thingiverse.com/thing:6962171) |
@@ -45,6 +46,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
  | 2019‑02‑20 | [Anycubic I3 Mega - Mega S Filament Holder](https://www.thingiverse.com/thing:3440835) |
 
 ### Historie
+- 2025-08-29 - Update
 - 2025-03-20 - Update
 - 2023-10-13 - Update
 - 2022-09-01 - Update
