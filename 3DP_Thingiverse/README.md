@@ -9,6 +9,7 @@ Nicht alle meine <b>_3D_</b>-Print <b>_P_</b>rojekte wurden thematisch aufbereit
 
  | **Datum** | **Beschreibung** |
  | --- | --- |
+ | 2025‑12‑21 | [OBO Toolbox - V1.6](https://www.thingiverse.com/thing:4520450) |
  | 2025‑08‑29 | [Mammotion LUBA-2 AWD X - RTK Adapter (2025)](https://www.thingiverse.com/thing:7130815) | 
  | 2025‑07‑16 | [OBO Toolbox - V1.5](https://www.thingiverse.com/thing:4520450) |
  | 2025‑03‑20 | [Philips Hue DimmerSwitch-V2 for GIRA System 55](https://www.thingiverse.com/thing:6985498) | 
